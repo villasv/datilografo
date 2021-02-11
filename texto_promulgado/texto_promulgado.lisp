@@ -70,7 +70,7 @@
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
-      ((cl-ppcre:scan "[IVX]+ -" (plump:text nó))
+      ((cl-ppcre:scan "[IVXL]+ -" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           (if primeiro-inciso '(#\Newline) "")
           '(#\Tab) (plump:text nó)))

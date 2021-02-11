@@ -105,8 +105,7 @@ Todos são iguais perante a lei, sem distinção de qualquer natureza, garantind
 		c) a soberania dos veredictos;
 		d) a competência para o julgamento dos crimes dolosos contra a vida;
 	XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;
-XL - a lei penal não retroagirá, salvo para beneficiar o réu;
-
+	XL - a lei penal não retroagirá, salvo para beneficiar o réu;
 	XLI - a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;
 	XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei;
 	XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
@@ -126,8 +125,7 @@ XL - a lei penal não retroagirá, salvo para beneficiar o réu;
 		e) cruéis;
 	XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;
 	XLIX - é assegurado aos presos o respeito à integridade física e moral;
-L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
-
+	L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
 	LI - nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;
 	LII - não será concedida extradição de estrangeiro por crime político ou de opinião;
 	LIII - ninguém será processado nem sentenciado senão pela autoridade competente;
