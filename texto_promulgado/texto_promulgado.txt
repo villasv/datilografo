@@ -1,6 +1,9 @@
-Constituição da República Federativa do Brasil.
+# Constituição da República Federativa do Brasil.
+
 PreâmbuloNós, representantes do povo brasileiro, reunidos em Assembléia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL.
-Título I
+
+## Título I
+
 Dos Princípios Fundamentais
 Art. 1ºA República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado democrático de direito e tem como fundamentos:
 I - a soberania;
@@ -27,7 +30,9 @@ VIII - repúdio ao terrorismo e ao racismo;
 IX - cooperação entre os povos para o progresso da humanidade;
 X - concessão de asilo político.
 Parágrafo único.A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.
-Título II
+
+## Título II
+
 Dos Direitos e Garantias Fundamentais
 Capítulo I
 Dos Direitos e Deveres Individuais e Coletivos
@@ -268,7 +273,9 @@ IV - funcionamento parlamentar de acordo com a lei.
 § 2ºOs partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.
 § 3ºOs partidos políticos têm direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei.
 § 4ºÉ vedada a utilização pelos partidos políticos de organização paramilitar.
-Título III
+
+## Título III
+
 Da Organização do Estado
 Capítulo I
 Da Organização Político-Administrativa
@@ -583,7 +590,9 @@ II - juros favorecidos para financiamento de atividades prioritárias;
 III - isenções, reduções ou diferimento temporário de tributos federais devidos por pessoas físicas ou jurídicas;
 IV - prioridade para o aproveitamento econômico e social dos rios e das massas de água represadas ou represáveis nas regiões de baixa renda, sujeitas a secas periódicas.
 § 3ºNas áreas a que se refere o § 2º, IV, a União incentivará a recuperação de terras áridas e cooperará com os pequenos e médios proprietários rurais para o estabelecimento, em suas glebas, de fontes de água e de pequena irrigação.
-Título IV
+
+## Título IV
+
 Da Organização dos Poderes
 Capítulo I
 Do Poder Legislativo
@@ -1259,7 +1268,9 @@ Art. 133.O advogado é indispensável à administração da justiça, sendo invi
 Art. 134.A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º, LXXIV.
 Parágrafo único.Lei complementar organizará a Defensoria Pública da União e do Distrito Federal e dos Territórios e prescreverá normas gerais para sua organização nos Estados, em cargos de carreira, providos, na classe inicial, mediante concurso público de provas e títulos, assegurada a seus integrantes a garantia da inamovibilidade e vedado o exercício da advocacia fora das atribuições institucionais.
 Art. 135.Às carreiras disciplinadas neste Título aplicam-se o princípio do art. 37, XII, e o art. 39, § 1º.
-Título V
+
+## Título V
+
 Da Defesa do Estado e das Instituições Democráticas
 Capítulo I
 Do Estado de Defesa e do Estado de Sítio
@@ -1334,7 +1345,9 @@ IV - exercer, com exclusividade, as funções de polícia judiciária da União.
 § 6ºAs polícias militares e corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se, juntamente com as polícias civis, aos Governadores dos Estados, do Distrito Federal e dos Territórios.
 § 7ºA lei disciplinará a organização e o funcionamento dos órgãos responsáveis pela segurança pública, de maneira a garantir a eficiência de suas atividades.
 § 8ºOs Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.
-Título VI
+
+## Título VI
+
 Da Tributação e do Orçamento
 Capítulo I
 Do Sistema Tributário Nacional
@@ -1577,7 +1590,9 @@ Art. 169.A despesa com pessoal ativo e inativo da União, dos Estados, do Distri
 Parágrafo único.A concessão de qualquer vantagem ou aumento de remuneração, a criação de cargos ou alteração de estrutura de carreiras, bem como a admissão de pessoal, a qualquer título, pelos órgãos e entidades da administração direta ou indireta, inclusive fundações instituídas e mantidas pelo poder público, só poderão ser feitas:
 I - se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes;
 II - se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista.
-Título VII
+
+## Título VII
+
 Da Ordem Econômica e Financeira
 Capítulo I
 Dos Princípios Gerais da Atividade Econômica
@@ -1709,7 +1724,9 @@ VIII - o funcionamento das cooperativas de crédito e os requisitos para que pos
 § 1ºA autorização a que se referem os incisos I e II será inegociável e intransferível, permitida a transmissão do controle da pessoa jurídica titular, e concedida sem ônus, na forma da lei do sistema financeiro nacional, a pessoa jurídica cujos diretores tenham capacidade técnica e reputação ilibada, e que comprove capacidade econômica compatível com o empreendimento.
 § 2ºOs recursos financeiros relativos a programas e projetos de caráter regional, de responsabilidade da União, serão depositados em suas instituições regionais de crédito e por elas aplicados.
 § 3ºAs taxas de juros reais, nelas incluídas comissões e quaisquer outras remunerações direta ou indiretamente referidas à concessão de crédito, não poderão ser superiores a doze por cento ao ano; a cobrança acima deste limite será conceituada como crime de usura, punido, em todas as suas modalidades, nos termos que a lei determinar.
-Título VIII
+
+## Título VIII
+
 Da Ordem Social
 Capítulo I
 Disposição Geral
@@ -1967,7 +1984,9 @@ Art. 231.São reconhecidos aos índios sua organização social, costumes, líng
 § 6ºSão nulos e extintos, não produzindo efeitos jurídicos, os atos que tenham por objeto a ocupação, o domínio e a posse das terras a que se refere este artigo, ou a exploração das riquezas naturais do solo, dos rios e dos lagos nelas existentes, ressalvado relevante interesse público da União, segundo o que dispuser lei complementar, não gerando a nulidade e a extinção direito a indenização ou a ações contra a União, salvo, na forma da lei, quanto às benfeitorias derivadas da ocupação de boa-fé.
 § 7ºNão se aplica às terras indígenas o disposto no art. 174, §§ 3º e 4º.
 Art. 232.Os índios, suas comunidades e organizações são partes legítimas para ingressar em juízo em defesa de seus direitos e interesses, intervindo o Ministério Público em todos os atos do processo.
-Título IX
+
+## Título IX
+
 Das Disposições Constitucionais Gerais
 Art. 233.Para efeito do art. 7º, XXIX, o empregador rural comprovará, de cinco em cinco anos, perante a Justiça do Trabalho, o cumprimento das suas obrigações trabalhistas para com o empregado rural, na presença deste e de seu representante sindical.
 § 1ºUma vez comprovado o cumprimento das obrigações mencionadas neste artigo, fica o empregador isento de qualquer ônus decorrente daquelas obrigações no período respectivo. Caso o empregado e seu representante não concordem com a comprovação do empregador, caberá à Justiça do Trabalho a solução da controvérsia.
