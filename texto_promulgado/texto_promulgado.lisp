@@ -65,6 +65,26 @@
       (t nil)))
     :test #'plump:text-node-p))
 
+;; Demarca e separa os incisos
+(loop for p across elementos do
+  (plump:traverse p
+    (lambda (nó) (cond
+      ((cl-ppcre:scan "[IVX]+ -" (plump:text nó))
+        (setf (plump:text nó) (concatenate 'string
+          "    " (plump:text nó) " \\")))
+      (t nil)))
+    :test #'plump:text-node-p))
+
+;; Demarca e separa as alíneas
+(loop for p across elementos do
+  (plump:traverse p
+    (lambda (nó) (cond
+      ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
+        (setf (plump:text nó) (concatenate 'string
+          "        " (plump:text nó) " \\")))
+      (t nil)))
+    :test #'plump:text-node-p))
+
 ;; Remove linhas em branco que restaram
 (defvar linhas (coerce (lquery:$ elementos (text)) 'list))
 (defvar conteúdo (format nil "~{~A~%~^~}"
