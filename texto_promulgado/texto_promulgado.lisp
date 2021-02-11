@@ -73,7 +73,7 @@
       ((cl-ppcre:scan "[IVXL]+ -" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           (if primeiro-inciso '(#\Newline) "")
-          "    " (plump:text nó))) "  "
+          "    " (plump:text nó) "  "))
         (setf primeiro-inciso nil))
       ((string= (plump:attribute (plump:parent nó) "class") "alinea")
         (setf primeiro-inciso nil))
@@ -86,7 +86,7 @@
     (lambda (nó) (cond
       ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
-          '(#\Tab #\Tab) (plump:text nó) " ")))
+          "        " (plump:text nó) " ")))
       (t nil)))
     :test #'plump:text-node-p))
 
