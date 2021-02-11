@@ -15,25 +15,28 @@
       (cl-ppcre:regex-replace-all "\\s+" (plump:text nó) " ")))
     :test #'plump:text-node-p))
 
-;; Adiciona marcadores estruturais
-(defun abaixo (e1 e2)
+;; Define a hierarquia estrutural
+(defvar hierarquia '(:ementa :título :capítulo :seção :subseção))
+(defun descendente (e1 e2)
+  (>= (position e1 hierarquia) (position e2 hierarquia)))
+(defun coerção (texto)
   (cond
-    ((equal e1 :título) (or
-      (equal e2 :título)))
+    ((str:starts-with? "Constituição da República Federativa do Brasil" texto) :ementa)
+    ((str:starts-with? "Título" texto) :título)
+    ((str:starts-with? "Capítulo" texto) :capítulo)
+    ((str:starts-with? "Seção" texto) :seção)
+    ((str:starts-with? "Seção" texto) :seção)
+    ((str:starts-with? "Subseção" texto) :subseção)
     (t nil)))
 
-(defvar estrutura '())
+;; Demarca e separa as estruturas
+(defvar estrutura '(:ementa))
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
-      ((string= (plump:attribute p "class") "ementa")
-        (push :ementa estrutura)
-        (setf (plump:text nó) (concatenate 'string "# " (plump:text nó) '(#\Newline))))
-      ((str:starts-with? "Título" (plump:text nó))
-        (loop while (abaixo :título (first estrutura)) do
+      ((coerção (plump:text nó))
+        (loop while (not (descendente (coerção (plump:text nó)) (first estrutura))) do
           (pop estrutura))
-        (push :título estrutura)
-        (print estrutura)
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline) "## " (plump:text nó) '(#\Newline))))
       (t nil)))
@@ -44,7 +47,7 @@
 (defvar conteúdo (format nil "~{~A~%~^~}"
   (remove-if (lambda (s) (string= "" s)) linhas)))
 
-(with-open-file (saída "texto_promulgado.txt"
+(with-open-file (saída "texto_promulgado.md"
     :direction :output
     :if-exists :supersede
     :if-does-not-exist :create)

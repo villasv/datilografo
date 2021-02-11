@@ -1,4 +1,5 @@
-# Constituição da República Federativa do Brasil.
+
+## Constituição da República Federativa do Brasil.
 
 PreâmbuloNós, representantes do povo brasileiro, reunidos em Assembléia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL.
 
@@ -34,7 +35,9 @@ Parágrafo único.A República Federativa do Brasil buscará a integração econ
 ## Título II
 
 Dos Direitos e Garantias Fundamentais
-Capítulo I
+
+## Capítulo I
+
 Dos Direitos e Deveres Individuais e Coletivos
 Art. 5ºTodos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
 I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;
@@ -140,7 +143,9 @@ b)a certidão de óbito;
 LXXVII - são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania.
 § 1ºAs normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.
 § 2ºOs direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.
-Capítulo II
+
+## Capítulo II
+
 Dos Direitos Sociais
 Art. 6ºSão direitos sociais a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
 Art. 7ºSão direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
@@ -196,7 +201,9 @@ Art. 9ºÉ assegurado o direito de greve, competindo aos trabalhadores decidir s
 § 2ºOs abusos cometidos sujeitam os responsáveis às penas da lei.
 Art. 10.É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.
 Art. 11.Nas empresas de mais de duzentos empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.
-Capítulo III
+
+## Capítulo III
+
 Da Nacionalidade
 Art. 12.São brasileiros:
 I - natos:
@@ -221,7 +228,9 @@ II - adquirir outra nacionalidade por naturalização voluntária.
 Art. 13.A língua portuguesa é o idioma oficial da República Federativa do Brasil.
 § 1ºSão símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais.
 § 2ºOs Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.
-Capítulo IV
+
+## Capítulo IV
+
 Dos Direitos Políticos
 Art. 14.A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:
 I - plebiscito;
@@ -262,7 +271,9 @@ III - condenação criminal transitada em julgado, enquanto durarem seus efeitos
 IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do art. 5º, VIII;
 V - improbidade administrativa, nos termos do art. 37, § 4º.
 Art. 16.A lei que alterar o processo eleitoral só entrará em vigor um ano após sua promulgação.
-Capítulo V
+
+## Capítulo V
+
 Dos Partidos Políticos
 Art. 17.É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana e observados os seguintes preceitos:
 I - caráter nacional;
@@ -277,7 +288,9 @@ IV - funcionamento parlamentar de acordo com a lei.
 ## Título III
 
 Da Organização do Estado
-Capítulo I
+
+## Capítulo I
+
 Da Organização Político-Administrativa
 Art. 18.A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição.
 § 1ºBrasília é a Capital Federal.
@@ -288,7 +301,9 @@ Art. 19.É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
 I - estabelecer cultos religiosos ou igrejas, subvencioná-los, embaraçar-lhes o funcionamento ou manter com eles ou seus representantes relações de dependência ou aliança, ressalvada, na forma da lei, a colaboração de interesse público;
 II - recusar fé aos documentos públicos;
 III - criar distinções entre brasileiros ou preferências entre si.
-Capítulo II
+
+## Capítulo II
+
 Da União
 Art. 20.São bens da União:
 I - os que atualmente lhe pertencem e os que lhe vierem a ser atribuídos;
@@ -405,7 +420,9 @@ XVI - organização, garantias, direitos e deveres das polícias civis.
 § 2ºA competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados.
 § 3ºInexistindo lei federal sobre normas gerais, os Estados exercerão a competência legislativa plena, para atender a suas peculiaridades.
 § 4ºA superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário.
-Capítulo III
+
+## Capítulo III
+
 Dos Estados Federados
 Art. 25.Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição.
 § 1ºSão reservadas aos Estados as competências que não lhes sejam vedadas por esta Constituição.
@@ -423,7 +440,9 @@ Art. 27.O número de Deputados à Assembléia Legislativa corresponderá ao trip
 § 4ºA lei disporá sobre a iniciativa popular no processo legislativo estadual.
 Art. 28.A eleição do Governador e do Vice-Governador de Estado, para mandato de quatro anos, realizar-se-á noventa dias antes do término do mandato de seus antecessores, e a posse ocorrerá no dia 1º de janeiro do ano subseqüente, observado, quanto ao mais, o disposto no art. 77.
 Parágrafo único.Perderá o mandato o Governador que assumir outro cargo ou função na administração pública direta ou indireta, ressalvada a posse em virtude de concurso público e observado o disposto no art. 38, I, IV e V.
-Capítulo IV
+
+## Capítulo IV
+
 Dos Municípios
 Art. 29.O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal, que a promulgará, atendidos os princípios estabelecidos nesta Constituição, na Constituição do respectivo Estado e os seguintes preceitos:
 I - eleição do Prefeito, do Vice-Prefeito e dos Vereadores, para mandato de quatro anos, mediante pleito direto e simultâneo realizado em todo o País;
@@ -456,22 +475,30 @@ Art. 31.A fiscalização do Município será exercida pelo Poder Legislativo mun
 § 2ºO parecer prévio, emitido pelo órgão competente, sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal.
 § 3ºAs contas dos Municípios ficarão, durante sessenta dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade, nos termos da lei.
 § 4ºÉ vedada a criação de tribunais, Conselhos ou órgãos de contas municipais.
-Capítulo V
+
+## Capítulo V
+
 Do Distrito Federal e dos Territórios
-Seção I
+
+## Seção I
+
 Do Distrito Federal
 Art. 32.O Distrito Federal, vedada sua divisão em Municípios, reger-se-á por lei orgânica, votada em dois turnos com interstício mínimo de dez dias, e aprovada por dois terços da Câmara Legislativa, que a promulgará, atendidos os princípios estabelecidos nesta Constituição.
 § 1ºAo Distrito Federal são atribuídas as competências legislativas reservadas aos Estados e Municípios.
 § 2ºA eleição do Governador e do Vice-Governador, observadas as regras do art. 77, e dos Deputados Distritais coincidirá com a dos Governadores e Deputados Estaduais, para mandato de igual duração.
 § 3ºAos Deputados Distritais e à Câmara Legislativa aplica-se o disposto no art. 27.
 § 4ºLei federal disporá sobre a utilização, pelo Governo do Distrito Federal, das polícias civil e militar e do corpo de bombeiros militar.
-Seção II
+
+## Seção II
+
 Dos Territórios
 Art. 33.A lei disporá sobre a organização administrativa e judiciária dos Territórios.
 § 1ºOs Territórios poderão ser divididos em Municípios, aos quais se aplicará, no que couber, o disposto no Capítulo IV deste Título.
 § 2ºAs contas do Governo do Território serão submetidas ao Congresso Nacional, com parecer prévio do Tribunal de Contas da União.
 § 3ºNos Territórios Federais com mais de cem mil habitantes, além do Governador, nomeado na forma desta Constituição, haverá órgãos judiciários de primeira e segunda instâncias, membros do Ministério Público e defensores públicos federais; a lei disporá sobre as eleições para a Câmara Territorial e sua competência deliberativa.
-Capítulo VI
+
+## Capítulo VI
+
 Da Intervenção
 Art. 34.A União não intervirá nos Estados nem no Distrito Federal, exceto para:
 I - manter a integridade nacional;
@@ -501,9 +528,13 @@ IV - de provimento, pelo Superior Tribunal de Justiça, de representação do Pr
 § 2ºSe não estiver funcionando o Congresso Nacional ou a Assembléia Legislativa, far-se-á convocação extraordinária, no mesmo prazo de vinte e quatro horas.
 § 3ºNos casos do art. 34, VI e VII, ou do art. 35, IV, dispensada a apreciação pelo Congresso Nacional ou pela Assembléia Legislativa, o decreto limitar-se-á a suspender a execução do ato impugnado, se essa medida bastar ao restabelecimento da normalidade.
 § 4ºCessados os motivos da intervenção, as autoridades afastadas de seus cargos a estes voltarão, salvo impedimento legal.
-Capítulo VII
+
+## Capítulo VII
+
 Da Administração Pública
-Seção I
+
+## Seção I
+
 Disposições Gerais
 Art. 37.A administração pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e, também, ao seguinte:
 I - os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei;
@@ -542,7 +573,9 @@ II - investido no mandato de Prefeito, será afastado do cargo, emprego ou funç
 III - investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, será aplicada a norma do inciso anterior;
 IV - em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento;
 V - para efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.
-Seção II
+
+## Seção II
+
 Dos Servidores Públicos Civis
 Art. 39.A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.
 § 1ºA lei assegurará, aos servidores da administração direta, isonomia de vencimentos para cargos de atribuições iguais ou assemelhados do mesmo Poder ou entre servidores dos Poderes Executivo, Legislativo e Judiciário, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local de trabalho.
@@ -564,7 +597,9 @@ Art. 41.São estáveis, após dois anos de efetivo exercício, os servidores nom
 § 1ºO servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou mediante processo administrativo em que lhe seja assegurada ampla defesa.
 § 2ºInvalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade.
 § 3ºExtinto o cargo ou declarada sua desnecessidade, o servidor estável ficará em disponibilidade remunerada, até seu adequado aproveitamento em outro cargo.
-Seção III
+
+## Seção III
+
 Dos Servidores Públicos Militares
 Art. 42.São servidores militares federais os integrantes das Forças Armadas e servidores militares dos Estados, Territórios e Distrito Federal os integrantes de suas polícias militares e de seus corpos de bombeiros militares.
 § 1ºAs patentes, com prerrogativas, direitos e deveres a elas inerentes, são asseguradas em plenitude aos oficiais da ativa, da reserva ou reformados das Forças Armadas, das polícias militares e dos corpos de bombeiros militares dos Estados, dos Territórios e do Distrito Federal, sendo-lhes privativos os títulos, postos e uniformes militares.
@@ -578,7 +613,9 @@ Art. 42.São servidores militares federais os integrantes das Forças Armadas e 
 § 9ºA lei disporá sobre os limites de idade, a estabilidade e outras condições de transferência do servidor militar para a inatividade.
 § 10.Aplica-se aos servidores a que se refere este artigo, e a seus pensionistas, o disposto no art. 40, §§ 4º e 5º.
 § 11.Aplica-se aos servidores a que se refere este artigo o disposto no art. 7º, VIII, XII, XVII, XVIII e XIX.
-Seção IV
+
+## Seção IV
+
 Das Regiões
 Art. 43.Para efeitos administrativos, a União poderá articular sua ação em um mesmo complexo geoeconômico e social, visando a seu desenvolvimento e à redução das desigualdades regionais.
 § 1ºLei complementar disporá sobre:
@@ -594,9 +631,13 @@ IV - prioridade para o aproveitamento econômico e social dos rios e das massas 
 ## Título IV
 
 Da Organização dos Poderes
-Capítulo I
+
+## Capítulo I
+
 Do Poder Legislativo
-Seção I
+
+## Seção I
+
 Do Congresso Nacional
 Art. 44.O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal.
 Parágrafo único.Cada legislatura terá a duração de quatro anos.
@@ -608,7 +649,9 @@ Art. 46.O Senado Federal compõe-se de representantes dos Estados e do Distrito 
 § 2ºA representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços.
 § 3ºCada Senador será eleito com dois suplentes.
 Art. 47.Salvo disposição constitucional em contrário, as deliberações de cada Casa e de suas comissões serão tomadas por maioria dos votos, presente a maioria absoluta de seus membros.
-Seção II
+
+## Seção II
+
 Das Atribuições do Congresso Nacional
 Art. 48.Cabe ao Congresso Nacional, com a sanção do Presidente da República, não exigida esta para o especificado nos arts. 49, 51 e 52, dispor sobre todas as matérias de competência da União, especialmente sobre:
 I - sistema tributário, arrecadação e distribuição de rendas;
@@ -646,7 +689,9 @@ XVII - aprovar, previamente, a alienação ou concessão de terras públicas com
 Art. 50.A Câmara dos Deputados e o Senado Federal, ou qualquer de suas comissões, poderão convocar Ministro de Estado para prestar, pessoalmente, informações sobre assunto previamente determinado, importando crime de responsabilidade a ausência sem justificação adequada.
 § 1ºOs Ministros de Estado poderão comparecer ao Senado Federal, à Câmara dos Deputados ou a qualquer de suas comissões, por sua iniciativa e mediante entendimentos com a Mesa respectiva, para expor assunto de relevância de seu Ministério.
 § 2ºAs Mesas da Câmara dos Deputados e do Senado Federal poderão encaminhar pedidos escritos de informação aos Ministros de Estado, importando crime de responsabilidade a recusa, ou o não-atendimento no prazo de trinta dias, bem como a prestação de informações falsas.
-Seção III
+
+## Seção III
+
 Da Câmara dos Deputados
 Art. 51.Compete privativamente à Câmara dos Deputados:
 I - autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente e o Vice-Presidente da República e os Ministros de Estado;
@@ -654,7 +699,9 @@ II - proceder à tomada de contas do Presidente da República, quando não apres
 III - elaborar seu regimento interno;
 IV - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
 V - eleger membros do Conselho da República, nos termos do art. 89, VII.
-Seção IV
+
+## Seção IV
+
 Do Senado Federal
 Art. 52.Compete privativamente ao Senado Federal:
 I - processar e julgar o Presidente e o Vice-Presidente da República nos crimes de responsabilidade e os Ministros de Estado nos crimes da mesma natureza conexos com aqueles;
@@ -678,7 +725,9 @@ XII - elaborar seu regimento interno;
 XIII - dispor sobre sua organização, funcionamento, polícia, criação, transformação ou extinção dos cargos, empregos e funções de seus serviços e fixação da respectiva remuneração, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias;
 XIV - eleger membros do Conselho da República, nos termos do art. 89, VII.
 Parágrafo único.Nos casos previstos nos incisos I e II, funcionará como Presidente o do Supremo Tribunal Federal, limitando-se a condenação, que somente será proferida por dois terços dos votos do Senado Federal, à perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis.
-Seção V
+
+## Seção V
+
 Dos Deputados e dos Senadores
 Art. 53.Os Deputados e Senadores são invioláveis por suas opiniões, palavras e votos.
 § 1ºDesde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável, nem processados criminalmente sem prévia licença de sua Casa.
@@ -713,7 +762,9 @@ II - licenciado pela respectiva Casa por motivo de doença, ou para tratar, sem 
 § 1ºO suplente será convocado nos casos de vaga, de investidura em funções previstas neste artigo ou de licença superior a cento e vinte dias.
 § 2ºOcorrendo vaga e não havendo suplente, far-se-á eleição para preenchê-la se faltarem mais de quinze meses para o término do mandato.
 § 3ºNa hipótese do inciso I, o Deputado ou Senador poderá optar pela remuneração do mandato.
-Seção VI
+
+## Seção VI
+
 Das Reuniões
 Art. 57.O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 15 de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro.
 § 1ºAs reuniões marcadas para essas datas serão transferidas para o primeiro dia útil subseqüente, quando recaírem em sábados, domingos ou feriados.
@@ -729,7 +780,9 @@ IV - conhecer do veto e sobre ele deliberar.
 I - pelo Presidente do Senado Federal, em caso de decretação de estado de defesa ou de intervenção federal, de pedido de autorização para a decretação de estado de sítio e para o compromisso e a posse do Presidente e do Vice-Presidente da República;
 II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e do Senado Federal, ou a requerimento da maioria dos membros de ambas as Casas, em caso de urgência ou interesse público relevante.
 § 7ºNa sessão legislativa extraordinária, o Congresso Nacional somente deliberará sobre a matéria para a qual foi convocado.
-Seção VII
+
+## Seção VII
+
 Das Comissões
 Art. 58.O Congresso Nacional e suas Casas terão comissões permanentes e temporárias, constituídas na forma e com as atribuições previstas no respectivo regimento ou no ato de que resultar sua criação.
 § 1ºNa constituição das Mesas e de cada comissão, é assegurada, tanto quanto possível, a representação proporcional dos partidos ou dos blocos parlamentares que participam da respectiva Casa.
@@ -742,9 +795,13 @@ V - solicitar depoimento de qualquer autoridade ou cidadão;
 VI - apreciar programas de obras, planos nacionais, regionais e setoriais de desenvolvimento e sobre eles emitir parecer.
 § 3ºAs comissões parlamentares de inquérito, que terão poderes de investigação próprios das autoridades judiciais, além de outros previstos nos regimentos das respectivas Casas, serão criadas pela Câmara dos Deputados e pelo Senado Federal, em conjunto ou separadamente, mediante requerimento de um terço de seus membros, para a apuração de fato determinado e por prazo certo, sendo suas conclusões, se for o caso, encaminhadas ao Ministério Público, para que promova a responsabilidade civil ou criminal dos infratores.
 § 4ºDurante o recesso, haverá uma comissão representativa do Congresso Nacional, eleita por suas Casas na última sessão ordinária do período legislativo, com atribuições definidas no regimento comum, cuja composição reproduzirá, quanto possível, a proporcionalidade da representação partidária.
-Seção VIII
+
+## Seção VIII
+
 Do Processo Legislativo
-Subseção I
+
+## Subseção I
+
 Disposição geral
 Art. 59.O processo legislativo compreende a elaboração de:
 I - emendas à Constituição;
@@ -755,7 +812,9 @@ V - medidas provisórias;
 VI - decretos legislativos;
 VII - resoluções.
 Parágrafo único.Lei complementar disporá sobre a elaboração, redação, alteração e consolidação das leis.
-Subseção II
+
+## Subseção II
+
 Da Emenda à Constituição
 Art. 60.A Constituição poderá ser emendada mediante proposta:
 I - de um terço, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal;
@@ -770,7 +829,9 @@ II - o voto direto, secreto, universal e periódico;
 III - a separação dos Poderes;
 IV - os direitos e garantias individuais.
 § 5ºA matéria constante de proposta de emenda rejeitada ou havida por prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa.
-Subseção III
+
+## Subseção III
+
 Das Leis
 Art. 61.A iniciativa das leis complementares e ordinárias cabe a qualquer membro ou comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na forma e nos casos previstos nesta Constituição.
 § 1ºSão de iniciativa privativa do Presidente da República as leis que:
@@ -811,7 +872,9 @@ III - planos plurianuais, diretrizes orçamentárias e orçamentos.
 § 2ºA delegação ao Presidente da República terá a forma de resolução do Congresso Nacional, que especificará seu conteúdo e os termos de seu exercício.
 § 3ºSe a resolução determinar a apreciação do projeto pelo Congresso Nacional, este a fará em votação única, vedada qualquer emenda.
 Art. 69.As leis complementares serão aprovadas por maioria absoluta.
-Seção IX
+
+## Seção IX
+
 Da Fiscalização Contábil, Financeira e Orçamentária
 Art. 70.A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.
 Parágrafo único.Prestará contas qualquer pessoa física ou entidade pública que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.
@@ -854,9 +917,13 @@ IV - apoiar o controle externo no exercício de sua missão institucional.
 § 2ºQualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
 Art. 75.As normas estabelecidas nesta Seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios.
 Parágrafo único.As Constituições estaduais disporão sobre os Tribunais de Contas respectivos, que serão integrados por sete conselheiros.
-Capítulo II
+
+## Capítulo II
+
 Do Poder Executivo
-Seção I
+
+## Seção I
+
 Do Presidente e do Vice-Presidente da República
 Art. 76.O Poder Executivo é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado.
 Art. 77.A eleição do Presidente e do Vice-Presidente da República realizar-se-á, simultaneamente, noventa dias antes do término do mandato presidencial vigente.
@@ -875,7 +942,9 @@ Art. 81.Vagando os cargos de Presidente e Vice-Presidente da República, far-se-
 § 2ºEm qualquer dos casos, os eleitos deverão completar o período de seus antecessores.
 Art. 82.O mandato do Presidente da República é de cinco anos, vedada a reeleição para o período subseqüente, e terá início em 1º de janeiro do ano seguinte ao da sua eleição.
 Art. 83.O Presidente e o Vice-Presidente da República não poderão, sem licença do Congresso Nacional, ausentar-se do País por período superior a quinze dias, sob pena de perda do cargo.
-Seção II
+
+## Seção II
+
 Das Atribuições do Presidente da República
 Art. 84.Compete privativamente ao Presidente da República:
 I - nomear e exonerar os Ministros de Estado;
@@ -906,7 +975,9 @@ XXV - prover e extinguir os cargos públicos federais, na forma da lei;
 XXVI - editar medidas provisórias com força de lei, nos termos do art. 62;
 XXVII - exercer outras atribuições previstas nesta Constituição.
 Parágrafo único.O Presidente da República poderá delegar as atribuições mencionadas nos incisos VI, XII e XXV, primeira parte, aos Ministros de Estado, ao Procurador-Geral da República ou ao Advogado-Geral da União, que observarão os limites traçados nas respectivas delegações.
-Seção III
+
+## Seção III
+
 Da Responsabilidade do Presidente da República
 Art. 85.São crimes de responsabilidade os atos do Presidente da República que atentem contra a Constituição Federal e, especialmente, contra:
 I - a existência da União;
@@ -924,7 +995,9 @@ II - nos crimes de responsabilidade, após a instauração do processo pelo Sena
 § 2ºSe, decorrido o prazo de cento e oitenta dias, o julgamento não estiver concluído, cessará o afastamento do Presidente, sem prejuízo do regular prosseguimento do processo.
 § 3ºEnquanto não sobrevier sentença condenatória, nas infrações comuns, o Presidente da República não estará sujeito a prisão.
 § 4ºO Presidente da República, na vigência de seu mandato, não pode ser responsabilizado por atos estranhos ao exercício de suas funções.
-Seção IV
+
+## Seção IV
+
 Dos Ministros de Estado
 Art. 87.Os Ministros de Estado serão escolhidos dentre brasileiros maiores de vinte e um anos e no exercício dos direitos políticos.
 Parágrafo único.Compete ao Ministro de Estado, além de outras atribuições estabelecidas nesta Constituição e na lei:
@@ -933,9 +1006,13 @@ II - expedir instruções para a execução das leis, decretos e regulamentos;
 III - apresentar ao Presidente da República relatório anual de sua gestão no Ministério;
 IV - praticar os atos pertinentes às atribuições que lhe forem outorgadas ou delegadas pelo Presidente da República.
 Art. 88.A lei disporá sobre a criação, estruturação e atribuições dos Ministérios.
-Seção V
+
+## Seção V
+
 Do Conselho da República e do Conselho de Defesa Nacional
-Subseção I
+
+## Subseção I
+
 Do Conselho da República
 Art. 89.O Conselho da República é órgão superior de consulta do Presidente da República, e dele participam:
 I - o Vice-Presidente da República;
@@ -950,7 +1027,9 @@ I - intervenção federal, estado de defesa e estado de sítio;
 II - as questões relevantes para a estabilidade das instituições democráticas.
 § 1ºO Presidente da República poderá convocar Ministro de Estado para participar da reunião do Conselho, quando constar da pauta questão relacionada com o respectivo Ministério.
 § 2ºA lei regulará a organização e o funcionamento do Conselho da República.
-Subseção II
+
+## Subseção II
+
 Do Conselho de Defesa Nacional
 Art. 91.O Conselho de Defesa Nacional é órgão de consulta do Presidente da República nos assuntos relacionados com a soberania nacional e a defesa do Estado democrático, e dele participam como membros natos:
 I - o Vice-Presidente da República;
@@ -966,9 +1045,13 @@ II - opinar sobre a decretação do estado de defesa, do estado de sítio e da i
 III - propor os critérios e condições de utilização de áreas indispensáveis à segurança do território nacional e opinar sobre seu efetivo uso, especialmente na faixa de fronteira e nas relacionadas com a preservação e a exploração dos recursos naturais de qualquer tipo;
 IV - estudar, propor e acompanhar o desenvolvimento de iniciativas necessárias a garantir a independência nacional e a defesa do Estado democrático.
 § 2ºA lei regulará a organização e o funcionamento do Conselho de Defesa Nacional.
-Capítulo III
+
+## Capítulo III
+
 Do Poder Judiciário
-Seção I
+
+## Seção I
+
 Disposições Gerais
 Art. 92.São órgãos do Poder Judiciário:
 I - o Supremo Tribunal Federal;
@@ -1031,7 +1114,9 @@ II - no âmbito dos Estados e no do Distrito Federal e Territórios, aos Preside
 Art. 100.À exceção dos créditos de natureza alimentícia, os pagamentos devidos pela Fazenda Federal, Estadual ou Municipal, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
 § 1ºÉ obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos constantes de precatórios judiciários, apresentados até 1º de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.
 § 2ºAs dotações orçamentárias e os créditos abertos serão consignados ao Poder Judiciário, recolhendo-se as importâncias respectivas à repartição competente, cabendo ao Presidente do tribunal que proferir a decisão exeqüenda determinar o pagamento, segundo as possibilidades do depósito, e autorizar, a requerimento do credor e exclusivamente para o caso de preterimento de seu direito de precedência, o seqüestro da quantia necessária à satisfação do débito.
-Seção II
+
+## Seção II
+
 Do Supremo Tribunal Federal
 Art. 101.O Supremo Tribunal Federal compõe-se de onze Ministros, escolhidos dentre cidadãos com mais de trinta e cinco e menos de sessenta e cinco anos de idade, de notável saber jurídico e reputação ilibada.
 Parágrafo único.Os Ministros do Supremo Tribunal Federal serão nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
@@ -1074,7 +1159,9 @@ IX - confederação sindical ou entidade de classe de âmbito nacional.
 § 1ºO Procurador-Geral da República deverá ser previamente ouvido nas ações de inconstitucionalidade e em todos os processos de competência do Supremo Tribunal Federal.
 § 2ºDeclarada a inconstitucionalidade por omissão de medida para tornar efetiva norma constitucional, será dada ciência ao Poder competente para a adoção das providências necessárias e, em se tratando de órgão administrativo, para fazê-lo em trinta dias.
 § 3ºQuando o Supremo Tribunal Federal apreciar a inconstitucionalidade, em tese, de norma legal ou ato normativo, citará, previamente, o Advogado-Geral da União, que defenderá o ato ou texto impugnado.
-Seção III
+
+## Seção III
+
 Do Superior Tribunal de Justiça
 Art. 104.O Superior Tribunal de Justiça compõe-se de, no mínimo, trinta e três Ministros.
 Parágrafo único.Os Ministros do Superior Tribunal de Justiça serão nomeados pelo Presidente da República, dentre brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos, de notável saber jurídico e reputação ilibada, depois de aprovada a escolha pelo Senado Federal, sendo:
@@ -1099,7 +1186,9 @@ a)contrariar tratado ou lei federal, ou negar-lhes vigência;
 b)julgar válida lei ou ato de governo local contestado em face de lei federal;
 c)der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
 Parágrafo único.Funcionará junto ao Superior Tribunal de Justiça o Conselho da Justiça Federal, cabendo-lhe, na forma da lei, exercer a supervisão administrativa e orçamentária da Justiça Federal de primeiro e segundo graus.
-Seção IV
+
+## Seção IV
+
 Dos Tribunais Regionais Federais e dos Juízes Federais
 Art. 106.São órgãos da Justiça Federal:
 I - os Tribunais Regionais Federais;
@@ -1134,7 +1223,9 @@ XI - a disputa sobre direitos indígenas.
 § 4ºNa hipótese do parágrafo anterior, o recurso cabível será sempre para o Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau.
 Art. 110.Cada Estado, bem como o Distrito Federal, constituirá uma seção judiciária, que terá por sede a respectiva capital, e varas localizadas segundo o estabelecido em lei.
 Parágrafo único.Nos Territórios Federais, a jurisdição e as atribuições cometidas aos juízes federais caberão aos juízes da Justiça local, na forma da lei.
-Seção V
+
+## Seção V
+
 Dos Tribunais e Juízes do Trabalho
 Art. 111.São órgãos da Justiça do Trabalho:
 I - o Tribunal Superior do Trabalho;
@@ -1159,7 +1250,9 @@ Art. 116.A Junta de Conciliação e Julgamento será composta de um juiz do trab
 Parágrafo único.Os juízes classistas das Juntas de Conciliação e Julgamento serão nomeados pelo Presidente do Tribunal Regional do Trabalho, na forma da lei, permitida uma recondução.
 Art. 117.O mandato dos representantes classistas, em todas as instâncias, é de três anos.
 Parágrafo único.Os representantes classistas terão suplentes.
-Seção VI
+
+## Seção VI
+
 Dos Tribunais e Juízes Eleitorais
 Art. 118.São órgãos da Justiça Eleitoral:
 I - o Tribunal Superior Eleitoral;
@@ -1190,7 +1283,9 @@ II - ocorrer divergência na interpretação de lei entre dois ou mais Tribunais
 III - versarem sobre inelegibilidade ou expedição de diplomas nas eleições federais ou estaduais;
 IV - anularem diplomas ou decretarem a perda de mandatos eletivos federais ou estaduais;
 V - denegarem habeas corpus, mandado de segurança, habeas data ou mandado de injunção.
-Seção VII
+
+## Seção VII
+
 Dos Tribunais e Juízes Militares
 Art. 122.São órgãos da Justiça Militar:
 I - o Superior Tribunal Militar;
@@ -1201,7 +1296,9 @@ I - três dentre advogados de notório saber jurídico e conduta ilibada, com ma
 II - dois, por escolha paritária, dentre juízes-auditores e membros do Ministério Público da Justiça Militar.
 Art. 124.À Justiça Militar compete processar e julgar os crimes militares definidos em lei.
 Parágrafo único.A lei disporá sobre a organização, o funcionamento e a competência da Justiça Militar.
-Seção VIII
+
+## Seção VIII
+
 Dos Tribunais e Juízes dos Estados
 Art. 125.Os Estados organizarão sua Justiça, observados os princípios estabelecidos nesta Constituição.
 § 1ºA competência dos tribunais será definida na Constituição do Estado, sendo a lei de organização judiciária de iniciativa do Tribunal de Justiça.
@@ -1210,9 +1307,13 @@ Art. 125.Os Estados organizarão sua Justiça, observados os princípios estabel
 § 4ºCompete à Justiça Militar estadual processar e julgar os policiais militares e bombeiros militares nos crimes militares definidos em lei, cabendo ao tribunal competente decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças.
 Art. 126.Para dirimir conflitos fundiários, o Tribunal de Justiça designará juízes de entrância especial, com competência exclusiva para questões agrárias.
 Parágrafo único.Sempre que necessário à eficiente prestação jurisdicional, o juiz far-se-á presente no local do litígio.
-Capítulo IV
+
+## Capítulo IV
+
 Das Funções Essenciais à Justiça
-Seção I
+
+## Seção I
+
 Do Ministério Público
 Art. 127.O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
 § 1ºSão princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional.
@@ -1255,14 +1356,18 @@ IX - exercer outras funções que lhe forem conferidas, desde que compatíveis c
 § 3ºO ingresso na carreira far-se-á mediante concurso público de provas e títulos, assegurada participação da Ordem dos Advogados do Brasil em sua realização, e observada, nas nomeações, a ordem de classificação.
 § 4ºAplica-se ao Ministério Público, no que couber, o disposto no art. 93, II e VI.
 Art. 130.Aos membros do Ministério Público junto aos Tribunais de Contas aplicam-se as disposições desta Seção pertinentes a direitos, vedações e forma de investidura.
-Seção II
+
+## Seção II
+
 Da Advocacia-Geral da União
 Art. 131.A Advocacia-Geral da União é a instituição que, diretamente ou através de órgão vinculado, representa a União, judicial e extrajudicialmente, cabendo-lhe, nos termos da lei complementar que dispuser sobre sua organização e funcionamento, as atividades de consultoria e assessoramento jurídico do Poder Executivo.
 § 1ºA Advocacia-Geral da União tem por chefe o Advogado-Geral da União, de livre nomeação pelo Presidente da República dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada.
 § 2ºO ingresso nas classes iniciais das carreiras da instituição de que trata este artigo far-se-á mediante concurso público de provas e títulos.
 § 3ºNa execução da dívida ativa de natureza tributária, a representação da União cabe à Procuradoria-Geral da Fazenda Nacional, observado o disposto em lei.
 Art. 132.Os Procuradores dos Estados e do Distrito Federal exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, observado o disposto no art. 135.
-Seção III
+
+## Seção III
+
 Da Advocacia e da Defensoria Pública
 Art. 133.O advogado é indispensável à administração da justiça, sendo inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei.
 Art. 134.A Defensoria Pública é instituição essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em todos os graus, dos necessitados, na forma do art. 5º, LXXIV.
@@ -1272,9 +1377,13 @@ Art. 135.Às carreiras disciplinadas neste Título aplicam-se o princípio do ar
 ## Título V
 
 Da Defesa do Estado e das Instituições Democráticas
-Capítulo I
+
+## Capítulo I
+
 Do Estado de Defesa e do Estado de Sítio
-Seção I
+
+## Seção I
+
 Do Estado de Defesa
 Art. 136.O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, decretar estado de defesa para preservar ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
 § 1ºO decreto que instituir o estado de defesa determinará o tempo de sua duração, especificará as áreas a serem abrangidas e indicará, nos termos e limites da lei, as medidas coercitivas a vigorarem, dentre as seguintes:
@@ -1293,7 +1402,9 @@ IV - é vedada a incomunicabilidade do preso.
 § 5ºSe o Congresso Nacional estiver em recesso, será convocado, extraordinariamente, no prazo de cinco dias.
 § 6ºO Congresso Nacional apreciará o decreto dentro de dez dias contados de seu recebimento, devendo continuar funcionando enquanto vigorar o estado de defesa.
 § 7ºRejeitado o decreto, cessa imediatamente o estado de defesa.
-Seção II
+
+## Seção II
+
 Do Estado de Sítio
 Art. 137.O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, solicitar ao Congresso Nacional autorização para decretar o estado de sítio nos casos de:
 I - comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa;
@@ -1312,12 +1423,16 @@ V - busca e apreensão em domicílio;
 VI - intervenção nas empresas de serviços públicos;
 VII - requisição de bens.
 Parágrafo único.Não se inclui nas restrições do inciso III a difusão de pronunciamentos de parlamentares efetuados em suas Casas Legislativas, desde que liberada pela respectiva Mesa.
-Seção III
+
+## Seção III
+
 Disposições Gerais
 Art. 140.A Mesa do Congresso Nacional, ouvidos os líderes partidários, designará Comissão composta de cinco de seus membros para acompanhar e fiscalizar a execução das medidas referentes ao estado de defesa e ao estado de sítio.
 Art. 141.Cessado o estado de defesa ou o estado de sítio, cessarão também seus efeitos, sem prejuízo da responsabilidade pelos ilícitos cometidos por seus executores ou agentes.
 Parágrafo único.Logo que cesse o estado de defesa ou o estado de sítio, as medidas aplicadas em sua vigência serão relatadas pelo Presidente da República, em mensagem ao Congresso Nacional, com especificação e justificação das providências adotadas, com relação nominal dos atingidos e indicação das restrições aplicadas.
-Capítulo II
+
+## Capítulo II
+
 Das Forças Armadas
 Art. 142.As Forças Armadas, constituídas pela Marinha, pelo Exército e pela Aeronáutica, são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e na disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.
 § 1ºLei complementar estabelecerá as normas gerais a serem adotadas na organização, no preparo e no emprego das Forças Armadas.
@@ -1325,7 +1440,9 @@ Art. 142.As Forças Armadas, constituídas pela Marinha, pelo Exército e pela A
 Art. 143.O serviço militar é obrigatório nos termos da lei.
 § 1ºÀs Forças Armadas compete, na forma da lei, atribuir serviço alternativo aos que, em tempo de paz, após alistados, alegarem imperativo de consciência, entendendo-se como tal o decorrente de crença religiosa e de convicção filosófica ou política, para se eximirem de atividades de caráter essencialmente militar.
 § 2ºAs mulheres e os eclesiásticos ficam isentos do serviço militar obrigatório em tempo de paz, sujeitos, porém, a outros encargos que a lei lhes atribuir.
-Capítulo III
+
+## Capítulo III
+
 Da Segurança Pública
 Art. 144.A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:
 I - polícia federal;
@@ -1349,9 +1466,13 @@ IV - exercer, com exclusividade, as funções de polícia judiciária da União.
 ## Título VI
 
 Da Tributação e do Orçamento
-Capítulo I
+
+## Capítulo I
+
 Do Sistema Tributário Nacional
-Seção I
+
+## Seção I
+
 Dos Princípios Gerais
 Art. 145.A União, os Estados, o Distrito Federal e os Municípios poderão instituir os seguintes tributos:
 I - impostos;
@@ -1373,7 +1494,9 @@ II - no caso de investimento público de caráter urgente e de relevante interes
 Parágrafo único.A aplicação dos recursos provenientes de empréstimo compulsório será vinculada à despesa que fundamentou sua instituição.
 Art. 149.Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art. 195, § 6º, relativamente às contribuições a que alude o dispositivo.
 Parágrafo único.Os Estados, o Distrito Federal e os Municípios poderão instituir contribuição, cobrada de seus servidores, para o custeio, em benefício destes, de sistemas de previdência e assistência social.
-Seção II
+
+## Seção II
+
 Das Limitações do Poder de Tributar
 Art. 150.Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
 I - exigir ou aumentar tributo sem lei que o estabeleça;
@@ -1399,7 +1522,9 @@ I - instituir tributo que não seja uniforme em todo o território nacional ou q
 II - tributar a renda das obrigações da dívida pública dos Estados, do Distrito Federal e dos Municípios, bem como a remuneração e os proventos dos respectivos agentes públicos, em níveis superiores aos que fixar para suas obrigações e para seus agentes;
 III - instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios.
 Art. 152.É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.
-Seção III
+
+## Seção III
+
 Dos Impostos da União
 Art. 153.Compete à União instituir impostos sobre:
 I - importação de produtos estrangeiros;
@@ -1424,7 +1549,9 @@ II - setenta por cento para o Município de origem.
 Art. 154.A União poderá instituir:
 I - mediante lei complementar, impostos não previstos no artigo anterior, desde que sejam não cumulativos e não tenham fato gerador ou base de cálculo próprios dos discriminados nesta Constituição;
 II - na iminência ou no caso de guerra externa, impostos extraordinários, compreendidos ou não em sua competência tributária, os quais serão suprimidos, gradativamente, cessadas as causas de sua criação.
-Seção IV
+
+## Seção IV
+
 Dos Impostos dos Estados e do Distrito Federal
 Art. 155.Compete aos Estados e ao Distrito Federal instituir:
 I - impostos sobre:
@@ -1471,7 +1598,9 @@ e)excluir da incidência do imposto, nas exportações para o exterior, serviço
 f)prever casos de manutenção de crédito, relativamente à remessa para outro Estado e exportação para o exterior, de serviços e de mercadorias;
 g)regular a forma como, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais serão concedidos e revogados.
 § 3ºÀ exceção dos impostos de que tratam o inciso I, b, do caput deste artigo e os arts. 153, I e II, e 156, III, nenhum outro tributo incidirá sobre operações relativas a energia elétrica, combustíveis líquidos e gasosos, lubrificantes e minerais do País.
-Seção V
+
+## Seção V
+
 Dos Impostos dos Municípios
 Art. 156.Compete aos Municípios instituir impostos sobre:
 I - propriedade predial e territorial urbana;
@@ -1486,7 +1615,9 @@ II - compete ao Município da situação do bem.
 § 4ºCabe à lei complementar:
 I - fixar as alíquotas máximas dos impostos previstos nos incisos III e IV;
 II - excluir da incidência do imposto previsto no inciso IV exportações de serviços para o exterior.
-Seção VI
+
+## Seção VI
+
 Da Repartição das Receitas Tributárias
 Art. 157.Pertencem aos Estados e ao Distrito Federal:
 I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente na fonte sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que instituírem e mantiverem;
@@ -1517,9 +1648,13 @@ III - dispor sobre o acompanhamento, pelos beneficiários, do cálculo das quota
 Parágrafo único.O Tribunal de Contas da União efetuará o cálculo das quotas referentes aos fundos de participação a que alude o inciso II.
 Art. 162.A União, os Estados, o Distrito Federal e os Municípios divulgarão, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, os recursos recebidos, os valores de origem tributária entregues e a entregar e a expressão numérica dos critérios de rateio.
 Parágrafo único.Os dados divulgados pela União serão discriminados por Estado e por Município; os dos Estados, por Município.
-Capítulo II
+
+## Capítulo II
+
 Das Finanças Públicas
-Seção I
+
+## Seção I
+
 Normas Gerais
 Art. 163.Lei complementar disporá sobre:
 I - finanças públicas;
@@ -1533,7 +1668,9 @@ Art. 164.A competência da União para emitir moeda será exercida exclusivament
 § 1ºÉ vedado ao Banco Central conceder, direta ou indiretamente, empréstimos ao Tesouro Nacional e a qualquer órgão ou entidade que não seja instituição financeira.
 § 2ºO Banco Central poderá comprar e vender títulos de emissão do Tesouro Nacional, com o objetivo de regular a oferta de moeda ou a taxa de juros.
 § 3ºAs disponibilidades de caixa da União serão depositadas no Banco Central; as dos Estados, do Distrito Federal, dos Municípios e dos órgãos ou entidades do poder público e das empresas por ele controladas, em instituições financeiras oficiais, ressalvados os casos previstos em lei.
-Seção II
+
+## Seção II
+
 Dos Orçamentos
 Art. 165.Leis de iniciativa do Poder Executivo estabelecerão:
 I - o plano plurianual;
@@ -1594,7 +1731,9 @@ II - se houver autorização específica na lei de diretrizes orçamentárias, r
 ## Título VII
 
 Da Ordem Econômica e Financeira
-Capítulo I
+
+## Capítulo I
+
 Dos Princípios Gerais da Atividade Econômica
 Art. 170.A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios:
 I - soberania nacional;
@@ -1658,7 +1797,9 @@ IV - a utilização de embarcações de pesca e outras.
 Art. 179.A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei.
 Art. 180.A União, os Estados, o Distrito Federal e os Municípios promoverão e incentivarão o turismo como fator de desenvolvimento social e econômico.
 Art. 181.O atendimento de requisição de documento ou informação de natureza comercial, feita por autoridade administrativa ou judiciária estrangeira, a pessoa física ou jurídica residente ou domiciliada no País dependerá de autorização do Poder competente.
-Capítulo II
+
+## Capítulo II
+
 Da Política Urbana
 Art. 182.A política de desenvolvimento urbano, executada pelo poder público municipal, conforme diretrizes gerais fixadas em lei, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes.
 § 1ºO plano diretor, aprovado pela Câmara Municipal, obrigatório para cidades com mais de vinte mil habitantes, é o instrumento básico da política de desenvolvimento e de expansão urbana.
@@ -1672,7 +1813,9 @@ Art. 183.Aquele que possuir como sua área urbana de até duzentos e cinqüenta 
 § 1ºO título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil.
 § 2ºEsse direito não será reconhecido ao mesmo possuidor mais de uma vez.
 § 3ºOs imóveis públicos não serão adquiridos por usucapião.
-Capítulo III
+
+## Capítulo III
+
 Da Política Agrícola e Fundiária e da Reforma Agrária
 Art. 184.Compete à União desapropriar por interesse social, para fins de reforma agrária, o imóvel rural que não esteja cumprindo sua função social, mediante prévia e justa indenização em títulos da dívida agrária, com cláusula de preservação do valor real, resgatáveis no prazo de até vinte anos, a partir do segundo ano de sua emissão, e cuja utilização será definida em lei.
 § 1ºAs benfeitorias úteis e necessárias serão indenizadas em dinheiro.
@@ -1708,7 +1851,9 @@ Parágrafo único.O título de domínio e a concessão de uso serão conferidos 
 Art. 190.A lei regulará e limitará a aquisição ou o arrendamento de propriedade rural por pessoa física ou jurídica estrangeira e estabelecerá os casos que dependerão de autorização do Congresso Nacional.
 Art. 191.Aquele que, não sendo proprietário de imóvel rural ou urbano, possua como seu, por cinco anos ininterruptos, sem oposição, área de terra, em zona rural, não superior a cinqüenta hectares, tornando-a produtiva por seu trabalho ou de sua família, tendo nela sua moradia, adquirir-lhe-á a propriedade.
 Parágrafo único.Os imóveis públicos não serão adquiridos por usucapião.
-Capítulo IV
+
+## Capítulo IV
+
 Do Sistema Financeiro Nacional
 Art. 192.O sistema financeiro nacional, estruturado de forma a promover o desenvolvimento equilibrado do País e a servir aos interesses da coletividade, será regulado em lei complementar, que disporá, inclusive, sobre:
 I - a autorização para o funcionamento das instituições financeiras, assegurado às instituições bancárias oficiais e privadas acesso a todos os instrumentos do mercado financeiro bancário, sendo vedada a essas instituições a participação em atividades não previstas na autorização de que trata este inciso;
@@ -1728,12 +1873,18 @@ VIII - o funcionamento das cooperativas de crédito e os requisitos para que pos
 ## Título VIII
 
 Da Ordem Social
-Capítulo I
+
+## Capítulo I
+
 Disposição Geral
 Art. 193.A ordem social tem como base o primado do trabalho, e como objetivo o bem-estar e a justiça sociais.
-Capítulo II
+
+## Capítulo II
+
 Da Seguridade Social
-Seção I
+
+## Seção I
+
 Disposições Gerais
 Art. 194.A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social.
 Parágrafo único.Compete ao poder público, nos termos da lei, organizar a seguridade social, com base nos seguintes objetivos:
@@ -1756,7 +1907,9 @@ III - sobre a receita de concursos de prognósticos.
 § 6ºAs contribuições sociais de que trata este artigo só poderão ser exigidas após decorridos noventa dias da data da publicação da lei que as houver instituído ou modificado, não se lhes aplicando o disposto no art. 150, III, b.
 § 7ºSão isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei.
 § 8ºO produtor, o parceiro, o meeiro e o arrendatário rurais, o garimpeiro e o pescador artesanal, bem como os respectivos cônjuges, que exerçam suas atividades em regime de economia familiar, sem empregados permanentes, contribuirão para a seguridade social mediante a aplicação de uma alíquota sobre o resultado da comercialização da produção e farão jus aos benefícios nos termos da lei.
-Seção II
+
+## Seção II
+
 Da Saúde
 Art. 196.A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
 Art. 197.São de relevância pública as ações e serviços de saúde, cabendo ao poder público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado.
@@ -1779,7 +1932,9 @@ V - incrementar em sua área de atuação o desenvolvimento científico e tecnol
 VI - fiscalizar e inspecionar alimentos, compreendido o controle de seu teor nutricional, bem como bebidas e águas para consumo humano;
 VII - participar do controle e fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos;
 VIII - colaborar na proteção do meio ambiente, nele compreendido o do trabalho.
-Seção III
+
+## Seção III
+
 Da Previdência Social
 Art. 201.Os planos de previdência social, mediante contribuição, atenderão, nos termos da lei, a:
 I - cobertura dos eventos de doença, invalidez, morte, incluídos os resultantes de acidentes do trabalho, velhice e reclusão;
@@ -1801,7 +1956,9 @@ II - após trinta e cinco anos de trabalho, ao homem, e, após trinta, à mulher
 III - após trinta anos, ao professor, e após vinte e cinco, à professora, por efetivo exercício de função de magistério.
 § 1ºÉ facultada aposentadoria proporcional, após trinta anos de trabalho, ao homem, e após vinte e cinco, à mulher.
 § 2ºPara efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos sistemas de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei.
-Seção IV
+
+## Seção IV
+
 Da Assistência Social
 Art. 203.A assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social, e tem por objetivos:
 I - a proteção à família, à maternidade, à infância, à adolescência e à velhice;
@@ -1812,9 +1969,13 @@ V - a garantia de um salário mínimo de benefício mensal à pessoa portadora d
 Art. 204.As ações governamentais na área da assistência social serão realizadas com recursos do orçamento da seguridade social, previstos no art. 195, além de outras fontes, e organizadas com base nas seguintes diretrizes:
 I - descentralização político-administrativa, cabendo a coordenação e as normas gerais à esfera federal e a coordenação e a execução dos respectivos programas às esferas estadual e municipal, bem como a entidades beneficentes e de assistência social;
 II - participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis.
-Capítulo III
+
+## Capítulo III
+
 Da Educação, da Cultura e do Desporto
-Seção I
+
+## Seção I
+
 Da Educação
 Art. 205.A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
 Art. 206.O ensino será ministrado com base nos seguintes princípios:
@@ -1863,7 +2024,9 @@ II - universalização do atendimento escolar;
 III - melhoria da qualidade do ensino;
 IV - formação para o trabalho;
 V - promoção humanística, científica e tecnológica do País.
-Seção II
+
+## Seção II
+
 Da Cultura
 Art. 215.O Estado garantirá a todos o pleno exercício dos direitos culturais e acesso às fontes da cultura nacional, e apoiará e incentivará a valorização e a difusão das manifestações culturais.
 § 1ºO Estado protegerá as manifestações das culturas populares, indígenas e afro-brasileiras, e das de outros grupos participantes do processo civilizatório nacional.
@@ -1879,7 +2042,9 @@ V - os conjuntos urbanos e sítios de valor histórico, paisagístico, artístic
 § 3ºA lei estabelecerá incentivos para a produção e o conhecimento de bens e valores culturais.
 § 4ºOs danos e ameaças ao patrimônio cultural serão punidos, na forma da lei.
 § 5ºFicam tombados todos os documentos e os sítios detentores de reminiscências históricas dos antigos quilombos.
-Seção III
+
+## Seção III
+
 Do Desporto
 Art. 217.É dever do Estado fomentar práticas desportivas formais e não formais, como direito de cada um, observados:
 I - a autonomia das entidades desportivas dirigentes e associações, quanto a sua organização e funcionamento;
@@ -1889,7 +2054,9 @@ IV - a proteção e o incentivo às manifestações desportivas de criação nac
 § 1ºO Poder Judiciário só admitirá ações relativas à disciplina e às competições desportivas após esgotarem-se as instâncias da justiça desportiva, regulada em lei.
 § 2ºA justiça desportiva terá o prazo máximo de sessenta dias, contados da instauração do processo, para proferir decisão final.
 § 3ºO poder público incentivará o lazer, como forma de promoção social.
-Capítulo IV
+
+## Capítulo IV
+
 Da Ciência e Tecnologia
 Art. 218.O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa e a capacitação tecnológicas.
 § 1ºA pesquisa científica básica receberá tratamento prioritário do Estado, tendo em vista o bem público e o progresso das ciências.
@@ -1898,7 +2065,9 @@ Art. 218.O Estado promoverá e incentivará o desenvolvimento científico, a pes
 § 4ºA lei apoiará e estimulará as empresas que invistam em pesquisa, criação de tecnologia adequada ao País, formação e aperfeiçoamento de seus recursos humanos e que pratiquem sistemas de remuneração que assegurem ao empregado, desvinculada do salário, participação nos ganhos econômicos resultantes da produtividade de seu trabalho.
 § 5ºÉ facultado aos Estados e ao Distrito Federal vincular parcela de sua receita orçamentária a entidades públicas de fomento ao ensino e à pesquisa científica e tecnológica.
 Art. 219.O mercado interno integra o patrimônio nacional e será incentivado de modo a viabilizar o desenvolvimento cultural e sócio-econômico, o bem-estar da população e a autonomia tecnológica do País, nos termos de lei federal.
-Capítulo V
+
+## Capítulo V
+
 Da Comunicação Social
 Art. 220.A manifestação do pensamento, a criação, a expressão e a informação, sob qualquer forma, processo ou veículo, não sofrerão qualquer restrição, observado o disposto nesta Constituição.
 § 1ºNenhuma lei conterá dispositivo que possa constituir embaraço à plena liberdade de informação jornalística em qualquer veículo de comunicação social, observado o disposto no art. 5º, IV, V, X, XIII e XIV.
@@ -1924,7 +2093,9 @@ Art. 223.Compete ao Poder Executivo outorgar e renovar concessão, permissão e 
 § 4ºO cancelamento da concessão ou permissão, antes de vencido o prazo, depende de decisão judicial.
 § 5ºO prazo da concessão ou permissão será de dez anos para as emissoras de rádio e de quinze para as de televisão.
 Art. 224.Para os efeitos do disposto neste Capítulo, o Congresso Nacional instituirá, como órgão auxiliar, o Conselho de Comunicação Social, na forma da lei.
-Capítulo VI
+
+## Capítulo VI
+
 Do Meio Ambiente
 Art. 225.Todos têm direito ao meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao poder público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações.
 § 1ºPara assegurar a efetividade desse direito, incumbe ao poder público:
@@ -1940,7 +2111,9 @@ VII - proteger a fauna e a flora, vedadas, na forma da lei, as práticas que col
 § 4ºA Floresta Amazônica brasileira, a Mata Atlântica, a Serra do Mar, o Pantanal Mato-Grossense e a Zona Costeira são patrimônio nacional, e sua utilização far-se-á, na forma da lei, dentro de condições que assegurem a preservação do meio ambiente, inclusive quanto ao uso dos recursos naturais.
 § 5ºSão indisponíveis as terras devolutas ou arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção dos ecossistemas naturais.
 § 6ºAs usinas que operem com reator nuclear deverão ter sua localização definida em lei federal, sem o que não poderão ser instaladas.
-Capítulo VII
+
+## Capítulo VII
+
 Da Família, da Criança, do Adolescente e do Idoso
 Art. 226.A família, base da sociedade, tem especial proteção do Estado.
 § 1ºO casamento é civil e gratuita a celebração.
@@ -1973,7 +2146,9 @@ Art. 229.Os pais têm o dever de assistir, criar e educar os filhos menores, e o
 Art. 230.A família, a sociedade e o Estado têm o dever de amparar as pessoas idosas, assegurando sua participação na comunidade, defendendo sua dignidade e bem-estar e garantindo-lhes o direito à vida.
 § 1ºOs programas de amparo aos idosos serão executados preferencialmente em seus lares.
 § 2ºAos maiores de sessenta e cinco anos é garantida a gratuidade dos transportes coletivos urbanos.
-Capítulo VIII
+
+## Capítulo VIII
+
 Dos Índios
 Art. 231.São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens.
 § 1ºSão terras tradicionalmente ocupadas pelos índios as por eles habitadas em caráter permanente, as utilizadas para suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições.
