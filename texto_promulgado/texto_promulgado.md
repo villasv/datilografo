@@ -88,7 +88,6 @@ Todos são iguais perante a lei, sem distinção de qualquer natureza, garantind
 	XXVIII - são assegurados, nos termos da lei:
 		a) a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;
 		b) o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;
-
 	XXIX - a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;
 	XXX - é garantido o direito de herança;
 	XXXI - a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus;
@@ -97,7 +96,6 @@ Todos são iguais perante a lei, sem distinção de qualquer natureza, garantind
 	XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
 		a) o direito de petição aos poderes públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;
 		b) a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;
-
 	XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;
 	XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;
 	XXXVII - não haverá juízo ou tribunal de exceção;
@@ -106,7 +104,6 @@ Todos são iguais perante a lei, sem distinção de qualquer natureza, garantind
 		b) o sigilo das votações;
 		c) a soberania dos veredictos;
 		d) a competência para o julgamento dos crimes dolosos contra a vida;
-
 	XXXIX - não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;
 XL - a lei penal não retroagirá, salvo para beneficiar o réu;
 
@@ -121,14 +118,12 @@ XL - a lei penal não retroagirá, salvo para beneficiar o réu;
 		c) multa;
 		d) prestação social alternativa;
 		e) suspensão ou interdição de direitos;
-
 	XLVII - não haverá penas:
 		a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
 		b) de caráter perpétuo;
 		c) de trabalhos forçados;
 		d) de banimento;
 		e) cruéis;
-
 	XLVIII - a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;
 	XLIX - é assegurado aos presos o respeito à integridade física e moral;
 L - às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;
@@ -155,19 +150,16 @@ L - às presidiárias serão asseguradas condições para que possam permanecer 
 	LXX - o mandado de segurança coletivo pode ser impetrado por:
 		a) partido político com representação no Congresso Nacional;
 		b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;
-
 	LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;
 	LXXII - conceder-se-á habeas data:
 		a) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;
 		b) para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;
-
 	LXXIII - qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;
 	LXXIV - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;
 	LXXV - o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;
 	LXXVI - são gratuitos para os reconhecidamente pobres, na forma da lei:
 		a) o registro civil de nascimento;
 		b) a certidão de óbito;
-
 	LXXVII - são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania.
 
 **§ 1º**
@@ -217,7 +209,6 @@ São direitos dos trabalhadores urbanos e rurais, além de outros que visem à m
 	XXIX - ação, quanto a créditos resultantes das relações de trabalho, com prazo prescricional de:
 		a) cinco anos para o trabalhador urbano, até o limite de dois anos após a extinção do contrato;
 		b) até dois anos após a extinção do contrato, para o trabalhador rural;
-
 	XXX - proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;
 	XXXI - proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;
 	XXXII - proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;
@@ -268,7 +259,6 @@ São brasileiros:
 		a) os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país;
 		b) os nascidos no estrangeiro, de pai brasileiro ou de mãe brasileira, desde que qualquer deles esteja a serviço da República Federativa do Brasil;
 		c) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira, desde que sejam registrados em repartição brasileira competente, ou venham a residir na República Federativa do Brasil antes da maioridade e, alcançada esta, optem em qualquer tempo pela nacionalidade brasileira;
-
 	II - naturalizados:
 		a) os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano ininterrupto e idoneidade moral;
 		b) os estrangeiros de qualquer nacionalidade residentes na República Federativa do Brasil há mais de trinta anos ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira.
@@ -480,7 +470,6 @@ Compete à União:
 		d) os serviços de transporte ferroviário e aquaviário entre portos brasileiros e fronteiras nacionais, ou que transponham os limites de Estado ou Território;
 		e) os serviços de transporte rodoviário interestadual e internacional de passageiros;
 		f) os portos marítimos, fluviais e lacustres;
-
 	XIII - organizar e manter o Poder Judiciário, o Ministério Público e a Defensoria Pública do Distrito Federal e dos Territórios;
 	XIV - organizar e manter a polícia federal, a polícia rodoviária e a ferroviária federais, bem como a polícia civil, a polícia militar e o corpo de bombeiros militar do Distrito Federal e dos Territórios;
 	XV - organizar e manter os serviços oficiais de estatística, geografia, geologia e cartografia de âmbito nacional;
@@ -495,7 +484,6 @@ Compete à União:
 		a) toda atividade nuclear em território nacional somente será admitida para fins pacíficos e mediante aprovação do Congresso Nacional;
 		b) sob regime de concessão ou permissão, é autorizada a utilização de radioisótopos para a pesquisa e usos medicinais, agrícolas, industriais e atividades análogas;
 		c) a responsabilidade civil por danos nucleares independe da existência de culpa;
-
 	XXIV - organizar, manter e executar a inspeção do trabalho;
 	XXV - estabelecer as áreas e as condições para o exercício da atividade de garimpagem, em forma associativa.
 
@@ -645,7 +633,6 @@ O Município reger-se-á por lei orgânica, votada em dois turnos, com o interst
 		a) mínimo de nove e máximo de vinte e um nos Municípios de até um milhão de habitantes;
 		b) mínimo de trinta e três e máximo de quarenta e um nos Municípios de mais de um milhão e menos de cinco milhões de habitantes;
 		c) mínimo de quarenta e dois e máximo de cinqüenta e cinco nos Municípios de mais de cinco milhões de habitantes;
-
 	V - remuneração do Prefeito, do Vice-Prefeito e dos Vereadores fixada pela Câmara Municipal em cada legislatura, para a subseqüente, observado o que dispõem os arts. 37, XI, 150, II, 153, III, e 153, § 2º, I;
 	VI - inviolabilidade dos Vereadores por suas opiniões, palavras e votos no exercício do mandato e na circunscrição do Município;
 	VII - proibições e incompatibilidades, no exercício da vereança, similares, no que couber, ao disposto nesta Constituição para os membros do Congresso Nacional e na Constituição do respectivo Estado para os membros da Assembléia Legislativa;
@@ -736,7 +723,6 @@ A União não intervirá nos Estados nem no Distrito Federal, exceto para:
 	V - reorganizar as finanças da unidade da Federação que:
 		a) suspender o pagamento da dívida fundada por mais de dois anos consecutivos, salvo motivo de força maior;
 		b) deixar de entregar aos Municípios receitas tributárias fixadas nesta Constituição dentro dos prazos estabelecidos em lei;
-
 	VI - prover a execução de lei federal, ordem ou decisão judicial;
 	VII - assegurar a observância dos seguintes princípios constitucionais:
 		a) forma republicana, sistema representativo e regime democrático;
@@ -802,7 +788,6 @@ A administração pública direta, indireta ou fundacional, de qualquer dos Pode
 		a) a de dois cargos de professor;
 		b) a de um cargo de professor com outro técnico ou científico;
 		c) a de dois cargos privativos de médico;
-
 	XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, empresas públicas, sociedades de economia mista e fundações mantidas pelo poder público;
 	XVIII - a administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição, precedência sobre os demais setores administrativos, na forma da lei;
 	XIX - somente por lei específica poderão ser criadas empresa pública, sociedade de economia mista, autarquia ou fundação pública;
@@ -1074,7 +1059,6 @@ Compete privativamente ao Senado Federal:
 		d) presidente e diretores do Banco Central;
 		e) Procurador-Geral da República;
 		f) titulares de outros cargos que a lei determinar;
-
 	IV - aprovar previamente, por voto secreto, após argüição em sessão secreta, a escolha dos chefes de missão diplomática de caráter permanente;
 	V - autorizar operações externas de natureza financeira, de interesse da União, dos Estados, do Distrito Federal, dos Territórios e dos Municípios;
 	VI - fixar, por proposta do Presidente da República, limites globais para o montante da dívida consolidada da União, dos Estados, do Distrito Federal e dos Municípios;
@@ -1124,7 +1108,6 @@ Os Deputados e Senadores não poderão:
 	I - desde a expedição do diploma:
 		a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes;
 		b) aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de que sejam demissíveis ad nutum, nas entidades constantes da alínea anterior;
-
 	II - desde a posse:
 		a) ser proprietários, controladores ou diretores de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público, ou nela exercer função remunerada;
 		b) ocupar cargo ou função de que sejam demissíveis ad nutum, nas entidades referidas no inciso I, a;
@@ -1708,7 +1691,6 @@ Lei complementar, de iniciativa do Supremo Tribunal Federal, disporá sobre o Es
 		b) a promoção por merecimento pressupõe dois anos de exercício na respectiva entrância e integrar o juiz a primeira quinta parte da lista de antiguidade desta, salvo se não houver com tais requisitos quem aceite o lugar vago;
 		c) aferição do merecimento pelos critérios da presteza e segurança no exercício da jurisdição e pela freqüência e aproveitamento em cursos reconhecidos de aperfeiçoamento;
 		d) na apuração da antiguidade, o tribunal somente poderá recusar o juiz mais antigo pelo voto de dois terços de seus membros, conforme procedimento próprio, repetindo-se a votação até fixar-se a indicação;
-
 	III - o acesso aos tribunais de segundo grau far-se-á por antiguidade e merecimento, alternadamente, apurados na última entrância ou, onde houver, no Tribunal de Alçada, quando se tratar de promoção para o Tribunal de Justiça, de acordo com o inciso II e a classe de origem;
 	IV - previsão de cursos oficiais de preparação e aperfeiçoamento de magistrados como requisitos para ingresso e promoção na carreira;
 	V - os vencimentos dos magistrados serão fixados com diferença não superior a dez por cento de uma para outra das categorias da carreira, não podendo, a título nenhum, exceder os dos Ministros do Supremo Tribunal Federal;
@@ -1749,13 +1731,11 @@ Compete privativamente:
 		d) propor a criação de novas varas judiciárias;
 		e) prover, por concurso público de provas, ou de provas e títulos, obedecido o disposto no art. 169, parágrafo único, os cargos necessários à administração da justiça, exceto os de confiança assim definidos em lei;
 		f) conceder licença, férias e outros afastamentos a seus membros e aos juízes e servidores que lhes forem imediatamente vinculados;
-
 	II - ao Supremo Tribunal Federal, aos Tribunais Superiores e aos Tribunais de Justiça propor ao Poder Legislativo respectivo, observado o disposto no art. 169:
 		a) a alteração do número de membros dos tribunais inferiores;
 		b) a criação e a extinção de cargos e a fixação de vencimentos de seus membros, dos juízes, inclusive dos tribunais inferiores, onde houver, dos serviços auxiliares e os dos juízos que lhes forem vinculados;
 		c) a criação ou extinção dos tribunais inferiores;
 		d) a alteração da organização e da divisão judiciárias;
-
 	III - aos Tribunais de Justiça julgar os juízes estaduais e do Distrito Federal e Territórios, bem como os membros do Ministério Público, nos crimes comuns e de responsabilidade, ressalvada a competência da Justiça Eleitoral.
 
 **Art. 97.**
@@ -1818,11 +1798,9 @@ Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, 
 		o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal;
 		p) o pedido de medida cautelar das ações diretas de inconstitucionalidade;
 		q) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, da Mesa de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal;
-
 	II - julgar, em recurso ordinário:
 		a) o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;
 		b) o crime político;
-
 	III - julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida:
 		a) contrariar dispositivo desta Constituição;
 		b) declarar a inconstitucionalidade de tratado ou lei federal;
@@ -1878,12 +1856,10 @@ Compete ao Superior Tribunal de Justiça:
 		f) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
 		g) os conflitos de atribuições entre autoridades administrativas e judiciárias da União, ou entre autoridades judiciárias de um Estado e administrativas de outro ou do Distrito Federal, ou entre as deste e da União;
 		h) o mandado de injunção, quando a elaboração da norma regulamentadora for atribuição de órgão, entidade ou autoridade federal, da administração direta ou indireta, excetuados os casos de competência do Supremo Tribunal Federal e dos órgãos da Justiça Militar, da Justiça Eleitoral, da Justiça do Trabalho e da Justiça Federal;
-
 	II - julgar, em recurso ordinário:
 		a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
 		b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
 		c) as causas em que forem partes Estado estrangeiro ou organismo internacional, de um lado, e, do outro, Município ou pessoa residente ou domiciliada no País;
-
 	III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
 		a) contrariar tratado ou lei federal, ou negar-lhes vigência;
 		b) julgar válida lei ou ato de governo local contestado em face de lei federal;
@@ -1920,7 +1896,6 @@ Compete aos Tribunais Regionais Federais:
 		c) os mandados de segurança e os habeas data contra ato do próprio Tribunal ou de juiz federal;
 		d) os habeas corpus, quando a autoridade coatora for juiz federal;
 		e) os conflitos de competência entre juízes federais vinculados ao Tribunal;
-
 	II - julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos juízes estaduais no exercício da competência federal da área de sua jurisdição.
 
 **Art. 109.**
@@ -2034,7 +2009,6 @@ O Tribunal Superior Eleitoral compor-se-á, no mínimo, de sete membros, escolhi
 	I - mediante eleição, pelo voto secreto:
 		a) três juízes dentre os Ministros do Supremo Tribunal Federal;
 		b) dois juízes dentre os Ministros do Superior Tribunal de Justiça;
-
 	II - por nomeação do Presidente da República, dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Supremo Tribunal Federal.
 
 **Parágrafo único.**
@@ -2049,7 +2023,6 @@ Os Tribunais Regionais Eleitorais compor-se-ão:
 	I - mediante eleição, pelo voto secreto:
 		a) de dois juízes dentre os desembargadores do Tribunal de Justiça;
 		b) de dois juízes, dentre juízes de direito, escolhidos pelo Tribunal de Justiça;
-
 	II - de um juiz do Tribunal Regional Federal com sede na capital do Estado ou no Distrito Federal, ou, não havendo, de juiz federal, escolhido, em qualquer caso, pelo Tribunal Regional Federal respectivo;
 	III - por nomeação, pelo Presidente da República, de dois juízes dentre seis advogados de notável saber jurídico e idoneidade moral, indicados pelo Tribunal de Justiça.
 
@@ -2155,7 +2128,6 @@ O Ministério Público abrange:
 		b) o Ministério Público do Trabalho;
 		c) o Ministério Público Militar;
 		d) o Ministério Público do Distrito Federal e Territórios;
-
 	II - os Ministérios Públicos dos Estados.
 
 **§ 1º**
@@ -2177,7 +2149,6 @@ Leis complementares da União e dos Estados, cuja iniciativa é facultada aos re
 		a) vitaliciedade, após dois anos de exercício, não podendo perder o cargo senão por sentença judicial transitada em julgado;
 		b) inamovibilidade, salvo por motivo de interesse público, mediante decisão do órgão colegiado competente do Ministério Público, por voto de dois terços de seus membros, assegurada ampla defesa;
 		c) irredutibilidade de vencimentos, observado, quanto à remuneração, o que dispõem os arts. 37, XI, 150, II, 153, III, 153, § 2º, I;
-
 	II - as seguintes vedações:
 		a) receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas processuais;
 		b) exercer a advocacia;
@@ -2270,7 +2241,6 @@ O decreto que instituir o estado de defesa determinará o tempo de sua duração
 		a) reunião, ainda que exercida no seio das associações;
 		b) sigilo de correspondência;
 		c) sigilo de comunicação telegráfica e telefônica;
-
 	II - ocupação e uso temporário de bens e serviços públicos, na hipótese de calamidade pública, respondendo a União pelos danos e custos decorrentes.
 
 **§ 2º**
@@ -2477,7 +2447,6 @@ Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à Uni�
 	III - cobrar tributos:
 		a) em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado;
 		b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
-
 	IV - utilizar tributo com efeito de confisco;
 	V - estabelecer limitações ao tráfego de pessoas ou bens por meio de tributos interestaduais ou intermunicipais, ressalvada a cobrança de pedágio pela utilização de vias conservadas pelo poder público;
 	VI - instituir impostos sobre:
@@ -2571,7 +2540,6 @@ Compete aos Estados e ao Distrito Federal instituir:
 		a) transmissão causa mortis e doação, de quaisquer bens ou direitos;
 		b) operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior;
 		c) propriedade de veículos automotores;
-
 	II - adicional de até cinco por cento do que for pago à União por pessoas físicas ou jurídicas domiciliadas nos respectivos territórios, a título do imposto previsto no art. 153, III, incidente sobre lucros, ganhos e rendimentos de capital.
 
 **§ 1º**
@@ -2582,7 +2550,6 @@ O imposto previsto no inciso I, a:
 	III - terá a competência para sua instituição regulada por lei complementar:
 		a) se o doador tiver domicílio ou residência no exterior;
 		b) se o de cujus possuía bens, era residente ou domiciliado ou teve o seu inventário processado no exterior;
-
 	IV - terá suas alíquotas máximas fixadas pelo Senado Federal.
 
 **§ 2º**
@@ -2592,28 +2559,23 @@ O imposto previsto no inciso I, b, atenderá ao seguinte:
 	II - a isenção ou não-incidência, salvo determinação em contrário da legislação:
 		a) não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes;
 		b) acarretará a anulação do crédito relativo às operações anteriores;
-
 	III - poderá ser seletivo, em função da essencialidade das mercadorias e dos serviços;
 	IV - resolução do Senado Federal, de iniciativa do Presidente da República ou de um terço dos Senadores, aprovada pela maioria absoluta de seus membros, estabelecerá as alíquotas aplicáveis às operações e prestações, interestaduais e de exportação;
 	V - é facultado ao Senado Federal:
 		a) estabelecer alíquotas mínimas nas operações internas, mediante resolução de iniciativa de um terço e aprovada pela maioria absoluta de seus membros;
 		b) fixar alíquotas máximas nas mesmas operações para resolver conflito específico que envolva interesse de Estados, mediante resolução de iniciativa da maioria absoluta e aprovada por dois terços de seus membros;
-
 	VI - salvo deliberação em contrário dos Estados e do Distrito Federal, nos termos do disposto no inciso XII, g, as alíquotas internas, nas operações relativas à circulação de mercadorias e nas prestações de serviços, não poderão ser inferiores às previstas para as operações interestaduais;
 	VII - em relação às operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado, adotar-se-á:
 		a) a alíquota interestadual, quando o destinatário for contribuinte do imposto;
 		b) a alíquota interna, quando o destinatário não for contribuinte dele;
-
 	VIII - na hipótese da alínea a do inciso anterior, caberá ao Estado da localização do destinatário o imposto correspondente à diferença entre a alíquota interna e a interestadual;
 	IX - incidirá também:
 		a) sobre a entrada de mercadoria importada do exterior, ainda quando se tratar de bem destinado a consumo ou ativo fixo do estabelecimento, assim como sobre serviço prestado no exterior, cabendo o imposto ao Estado onde estiver situado o estabelecimento destinatário da mercadoria ou do serviço;
 		b) sobre o valor total da operação, quando mercadorias forem fornecidas com serviços não compreendidos na competência tributária dos Municípios;
-
 	X - não incidirá:
 		a) sobre operações que destinem ao exterior produtos industrializados, excluídos os semi-elaborados definidos em lei complementar;
 		b) sobre operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados, e energia elétrica;
 		c) sobre o ouro, nas hipóteses definidas no art. 153, § 5º;
-
 	XI - não compreenderá, em sua base de cálculo, o montante do imposto sobre produtos industrializados, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configure fato gerador dos dois impostos;
 	XII - cabe à lei complementar:
 		a) definir seus contribuintes;
@@ -2688,7 +2650,6 @@ A União entregará:
 		a) vinte e um inteiros e cinco décimos por cento ao Fundo de Participação dos Estados e do Distrito Federal;
 		b) vinte e dois inteiros e cinco décimos por cento ao Fundo de Participação dos Municípios;
 		c) três por cento, para aplicação em programas de financiamento ao setor produtivo das Regiões Norte, Nordeste e Centro-Oeste, através de suas instituições financeiras de caráter regional, de acordo com os planos regionais de desenvolvimento, ficando assegurada ao semi-árido do Nordeste a metade dos recursos destinados à região, na forma que a lei estabelecer;
-
 	II - do produto da arrecadação do imposto sobre produtos industrializados, dez por cento aos Estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações de produtos industrializados.
 
 **§ 1º**
@@ -2818,7 +2779,6 @@ As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifique
 		a) dotações para pessoal e seus encargos;
 		b) serviço da dívida;
 		c) transferências tributárias constitucionais para Estados, Municípios e o Distrito Federal; ou
-
 	III - sejam relacionadas:
 		a) com a correção de erros ou omissões; ou
 		b) com os dispositivos do texto do projeto de lei.
@@ -3144,7 +3104,6 @@ O sistema financeiro nacional, estruturado de forma a promover o desenvolvimento
 	III - as condições para a participação do capital estrangeiro nas instituições a que se referem os incisos anteriores, tendo em vista, especialmente:
 		a) os interesses nacionais;
 		b) os acordos internacionais;
-
 	IV - a organização, o funcionamento e as atribuições do Banco Central e demais instituições financeiras públicas e privadas;
 	V - os requisitos para a designação de membros da diretoria do Banco Central e demais instituições financeiras, bem como seus impedimentos após o exercício do cargo;
 	VI - a criação de fundo ou seguro, com o objetivo de proteger a economia popular, garantindo créditos, aplicações e depósitos até determinado valor, vedada a participação de recursos da União;
@@ -3771,14 +3730,12 @@ Nos dez primeiros anos da criação de Estado, serão observadas as seguintes no
 	V - os primeiros desembargadores serão nomeados pelo Governador eleito, escolhidos da seguinte forma:
 		a) cinco dentre os magistrados com mais de trinta e cinco anos de idade, em exercício na área do novo Estado ou do Estado originário;
 		b) dois dentre promotores, nas mesmas condições, e advogados de comprovada idoneidade e saber jurídico, com dez anos, no mínimo, de exercício profissional, obedecido o procedimento fixado na Constituição;
-
 	VI - no caso de Estado proveniente de Território Federal, os cinco primeiros desembargadores poderão ser escolhidos dentre juízes de direito de qualquer parte do País;
 	VII - em cada comarca, o primeiro juiz de direito, o primeiro promotor de justiça e o primeiro defensor público serão nomeados pelo Governador eleito após concurso público de provas e títulos;
 	VIII - até a promulgação da Constituição estadual, responderão pela Procuradoria-Geral, pela Advocacia-Geral e pela Defensoria-Geral do Estado advogados de notório saber, com trinta e cinco anos de idade, no mínimo, nomeados pelo Governador eleito e demissíveis ad nutum;
 	IX - se o novo Estado for resultado de transformação de Território Federal, a transferência de encargos financeiros da União para pagamento dos servidores optantes que pertenciam à administração federal ocorrerá da seguinte forma:
 		a) no sexto ano de instalação, o Estado assumirá vinte por cento dos encargos financeiros para fazer face ao pagamento dos servidores públicos, ficando ainda o restante sob a responsabilidade da União;
 		b) no sétimo ano, os encargos do Estado serão acrescidos de trinta por cento e, no oitavo, dos restantes cinqüenta por cento;
-
 	X - as nomeações que se seguirem às primeiras, para os cargos mencionados neste artigo, serão disciplinadas na Constituição estadual;
 	XI - as despesas orçamentárias com pessoal não poderão ultrapassar cinqüenta por cento da receita do Estado.
 

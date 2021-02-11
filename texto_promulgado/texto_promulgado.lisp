@@ -75,6 +75,8 @@
           (if primeiro-inciso '(#\Newline) "")
           '(#\Tab) (plump:text nó)))
         (setf primeiro-inciso nil))
+      ((string= (plump:attribute (plump:parent nó) "class") "alinea")
+        (setf primeiro-inciso nil))
       (t (setf primeiro-inciso t))))
     :test #'plump:text-node-p))
 
