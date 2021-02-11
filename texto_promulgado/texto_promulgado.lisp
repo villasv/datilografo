@@ -18,7 +18,7 @@
 ;; Define a hierarquia estrutural
 (defvar hierarquia '(:ementa :título :capítulo :seção :subseção))
 (defun descendente (e1 e2)
-  (>= (position e1 hierarquia) (position e2 hierarquia)))
+  (or (equal e2 nil) (> (position e1 hierarquia) (position e2 hierarquia))))
 (defun coerção (texto)
   (cond
     ((str:starts-with? "Constituição da República Federativa do Brasil" texto) :ementa)
@@ -30,15 +30,18 @@
     (t nil)))
 
 ;; Demarca e separa as estruturas
-(defvar estrutura '(:ementa))
+(defvar estrutura '())
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
       ((coerção (plump:text nó))
         (loop while (not (descendente (coerção (plump:text nó)) (first estrutura))) do
           (pop estrutura))
+        (push (coerção (plump:text nó)) estrutura)
         (setf (plump:text nó) (concatenate 'string
-          '(#\Newline) "## " (plump:text nó) '(#\Newline))))
+          '(#\Newline)
+          (make-string (length estrutura) :initial-element #\#) " "(plump:text nó)
+          '(#\Newline))))
       (t nil)))
     :test #'plump:text-node-p))
 
