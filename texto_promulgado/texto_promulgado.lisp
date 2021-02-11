@@ -66,13 +66,16 @@
     :test #'plump:text-node-p))
 
 ;; Demarca e separa os incisos
+(defvar primeiro-inciso t)
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
       ((cl-ppcre:scan "[IVX]+ -" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
-          '(#\Tab) (plump:text nó) "  ")))
-      (t nil)))
+          (if primeiro-inciso '(#\Newline) "")
+          '(#\Tab) (plump:text nó)))
+        (setf primeiro-inciso nil))
+      (t (setf primeiro-inciso t))))
     :test #'plump:text-node-p))
 
 ;; Demarca e separa as alíneas
