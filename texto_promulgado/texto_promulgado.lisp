@@ -71,7 +71,7 @@
     (lambda (nó) (cond
       ((cl-ppcre:scan "[IVX]+ -" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
-          "    " (plump:text nó) " \\")))
+          '(#\Tab) (plump:text nó) "  ")))
       (t nil)))
     :test #'plump:text-node-p))
 
@@ -81,7 +81,7 @@
     (lambda (nó) (cond
       ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
-          "        " (plump:text nó) " \\")))
+          '(#\Tab #\Tab) (plump:text nó) " ")))
       (t nil)))
     :test #'plump:text-node-p))
 
