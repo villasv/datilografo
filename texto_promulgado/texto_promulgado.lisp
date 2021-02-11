@@ -16,10 +16,10 @@
     :test #'plump:text-node-p))
 
 ;; Define a hierarquia estrutural
-(defvar hierarquia '(:ementa :título :capítulo :seção :subseção))
+(defvar hierarquia-estrutural '(:ementa :título :capítulo :seção :subseção))
 (defun descendente (e1 e2)
-  (or (equal e2 nil) (> (position e1 hierarquia) (position e2 hierarquia))))
-(defun coerção (texto)
+  (or (equal e2 nil) (> (position e1 hierarquia-estrutural) (position e2 hierarquia-estrutural))))
+(defun marcador-estrutural (texto)
   (cond
     ((str:starts-with? "Constituição da República Federativa do Brasil" texto) :ementa)
     ((str:starts-with? "Título" texto) :título)
@@ -34,13 +34,33 @@
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
-      ((coerção (plump:text nó))
-        (loop while (not (descendente (coerção (plump:text nó)) (first estrutura))) do
+      ((marcador-estrutural (plump:text nó))
+        (loop while (not (descendente (marcador-estrutural (plump:text nó)) (first estrutura))) do
           (pop estrutura))
-        (push (coerção (plump:text nó)) estrutura)
+        (push (marcador-estrutural (plump:text nó)) estrutura)
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline)
-          (make-string (length estrutura) :initial-element #\#) " "(plump:text nó)
+          (make-string (length estrutura) :initial-element #\#) " " (plump:text nó)
+          '(#\Newline))))
+      (t nil)))
+    :test #'plump:text-node-p))
+
+;; Define a hierarquia dispositiva
+(defun marcador-dispositivo (texto)
+  (cond
+    ((str:starts-with? "Art. " texto) :artigo)
+    ((str:starts-with? "§ " texto) :parágrafo)
+    ((str:starts-with? "Parágrafo único." texto) :parágrafo)
+    (t nil)))
+
+;; Demarca e separa os dispositivos
+(loop for p across elementos do
+  (plump:traverse p
+    (lambda (nó) (cond
+      ((marcador-dispositivo (plump:text nó))
+        (setf (plump:text nó) (concatenate 'string
+          '(#\Newline)
+          "**" (plump:text nó) "**"
           '(#\Newline))))
       (t nil)))
     :test #'plump:text-node-p))
