@@ -81,13 +81,19 @@
     :test #'plump:text-node-p))
 
 ;; Demarca e separa as alíneas
+(defvar pós-alínea nil)
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
       ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
-          "        " (plump:text nó) " ")))
-      (t nil)))
+          "        " (plump:text nó) " "))
+        (setf pós-alínea t))
+      ((string= (plump:attribute (plump:parent nó) "class") "alinea")
+        (setf (plump:text nó) (concatenate 'string
+          (plump:text nó) "  "))
+        (setf pós-alínea nil))
+      (t (setf pós-alínea nil))))
     :test #'plump:text-node-p))
 
 ;; Remove linhas em branco que restaram
