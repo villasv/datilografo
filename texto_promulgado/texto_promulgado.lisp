@@ -26,7 +26,6 @@
       (plump:text nó)
       (if (string= (plump:text nó) "Preâmbulo") "**" "_"))))
     :test #'plump:text-node-p))
-;; Remove linhas em branco que restaram
 
 ;; Define a hierarquia estrutural
 (defvar hierarquia-estrutural '(:ementa :título :capítulo :seção :subseção))
@@ -66,11 +65,11 @@
     ((str:starts-with? "Parágrafo único." texto) :parágrafo)
     (t nil)))
 
-;; Demarca e separa os dispositivos
+;; Demarca e separa os artigos
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
-      ((marcador-dispositivo (plump:text nó))
+      ((str:starts-with? "Art. " (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline)
           "**" (plump:text nó) "**"
@@ -78,36 +77,39 @@
       (t nil)))
     :test #'plump:text-node-p))
 
+;; Demarca e separa os parágrafos
+(loop for p across elementos do
+  (plump:traverse p
+    (lambda (nó) (cond
+      ((or (str:starts-with? "§ " (plump:text nó))
+           (str:starts-with? "Parágrafo único." (plump:text nó)))
+        (setf (plump:text nó) (concatenate 'string
+          '(#\Newline)
+          "  **" (plump:text nó) "**"
+          '(#\Newline))))
+      (t nil)))
+    :test #'plump:text-node-p))
+
 ;; Demarca e separa os incisos
-(defvar primeiro-inciso t)
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
       ((cl-ppcre:scan "[IVXL]+ -" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline)
-          "    " (plump:text nó)))
-        (setf primeiro-inciso nil))
-      ((string= (plump:attribute (plump:parent nó) "class") "alinea")
-        (setf primeiro-inciso nil))
-      (t (setf primeiro-inciso t))))
+          "    " (plump:text nó))))
+      (t nil)))
     :test #'plump:text-node-p))
 
 ;; Demarca e separa as alíneas
-(defvar pós-alínea nil)
 (loop for p across elementos do
   (plump:traverse p
     (lambda (nó) (cond
       ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline)
-          "        " (plump:text nó) " "))
-        (setf pós-alínea t))
-      ((string= (plump:attribute (plump:parent nó) "class") "alinea")
-        (setf (plump:text nó) (concatenate 'string
-          (plump:text nó) "  "))
-        (setf pós-alínea nil))
-      (t (setf pós-alínea nil))))
+          "        " (plump:text nó) " ")))
+      (t nil)))
     :test #'plump:text-node-p))
 
 ;; Separa a parte final
