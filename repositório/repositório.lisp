@@ -9,17 +9,29 @@
 
 ;; Criação do repositório
 (ensure-directories-exist diretório)
-(legit:git-init :directory diretório)
-(defvar repositório (make-instance 'legit:repository :location diretório))
-(push (list "origin" "git@github.com:villasv/cartamagna.git") (legit:remotes repositório))
-
-;; Configuração de submódulo
+(legit:with-chdir (diretório)
+  (legit:git-init)
+  (legit:git-checkout
+    :branch "-B" :new-branch "main")
+  (legit:git-remote
+    :add
+    :name "origin"
+    :url "git@github.com:villasv/cartamagna.git"))
 
 ;; Inicialização com o texto promulgado
+(defvar data "1988-10-5T15:30:00-3")
 (uiop:copy-file
   "../texto_promulgado/texto_promulgado.md"
   "./cartamagna/CONSTITUIÇÃO.md")
-(legit:add repositório ".")
-(legit:commit repositório
-  "Constituição da República Federativa do Brasil")
-(legit:push repositório)
+(legit:with-chdir (diretório)
+  (legit:git-add
+    :all t)
+  (setf (uiop:getenv "GIT_COMMITTER_DATE") data)
+  (setf (uiop:getenv "GIT_AUTHOR_DATE") data)
+  (legit:git-commit
+    :message "Constituição da República Federativa do Brasil")
+  (legit:git-push
+    :set-upstream t
+    :repository "origin"
+    :refspecs "main"
+    :force t))
