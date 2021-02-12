@@ -11,6 +11,7 @@
 (ensure-directories-exist diretório)
 (legit:git-init :directory diretório)
 (defvar repositório (make-instance 'legit:repository :location diretório))
+(push (list "origin" "git@github.com:villasv/cartamagna.git") (legit:remotes repositório))
 
 ;; Configuração de submódulo
 
@@ -21,3 +22,4 @@
 (legit:add repositório ".")
 (legit:commit repositório
   "Constituição da República Federativa do Brasil")
+(legit:push repositório)

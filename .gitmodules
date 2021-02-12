@@ -1,0 +1,3 @@
+[submodule "repositório/cartamagna"]
+	path = repositório/cartamagna
+	url = git@github.com:villasv/cartamagna.git
