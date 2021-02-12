@@ -15,6 +15,19 @@
       (cl-ppcre:regex-replace-all "\\s+" (plump:text nó) " ")))
     :test #'plump:text-node-p))
 
+;; Prepara o preâmbulo
+(defvar preâmbulo (lquery:$ documento "#conteudoConst p.preambulo"))
+(loop for p across preâmbulo do
+  (plump:traverse p
+    (lambda (nó) (setf (plump:text nó) (concatenate 'string
+      (if (string= (plump:text nó) "Preâmbulo")
+        "> **"
+        (concatenate 'string '(#\Newline) ">" '(#\Newline) "> _"))
+      (plump:text nó)
+      (if (string= (plump:text nó) "Preâmbulo") "**" "_"))))
+    :test #'plump:text-node-p))
+;; Remove linhas em branco que restaram
+
 ;; Define a hierarquia estrutural
 (defvar hierarquia-estrutural '(:ementa :título :capítulo :seção :subseção))
 (defun descendente (e1 e2)
