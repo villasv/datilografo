@@ -97,7 +97,7 @@
       ((cl-ppcre:scan "[IVXL]+ -" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline)
-          "      " (plump:text nó))))
+          "        " (plump:text nó))))
       (t nil)))
     :test #'plump:text-node-p))
 
@@ -108,7 +108,7 @@
       ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
           '(#\Newline)
-          "        " (plump:text nó) " ")))
+          "          " (plump:text nó) " ")))
       (t nil)))
     :test #'plump:text-node-p))
 
