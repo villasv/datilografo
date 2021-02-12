@@ -87,6 +87,7 @@
     (lambda (nó) (cond
       ((cl-ppcre:scan "[a-z]\\)" (plump:text nó))
         (setf (plump:text nó) (concatenate 'string
+          '(#\Newline)
           "        " (plump:text nó) " "))
         (setf pós-alínea t))
       ((string= (plump:attribute (plump:parent nó) "class") "alinea")
