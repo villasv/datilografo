@@ -4741,4 +4741,5 @@ A lei disporá sobre a adaptação dos logradouros, dos edifícios de uso públi
 
 **Art. 245.**
 A lei disporá sobre as hipóteses e condições em que o poder público dará assistência aos herdeiros e dependentes carentes de pessoas vitimadas por crime doloso, sem prejuízo da responsabilidade civil do autor do ilícito.
+
 Brasília, 5 de outubro de 1988.

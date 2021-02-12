@@ -97,6 +97,15 @@
       (t (setf pós-alínea nil))))
     :test #'plump:text-node-p))
 
+;; Separa a parte final
+(defvar final (lquery:$ documento "#conteudoConst p.parteFinal"))
+(loop for p across final do
+  (plump:traverse p
+    (lambda (nó) (setf (plump:text nó) (concatenate 'string
+      '(#\Newline)
+      (plump:text nó))))
+    :test #'plump:text-node-p))
+
 ;; Remove linhas em branco que restaram
 (defvar linhas (coerce (lquery:$ elementos (text)) 'list))
 (defvar conteúdo (format nil "~{~A~%~^~}"
