@@ -1,0 +1,841 @@
+
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Senado Federal - Atividade Legislativa - Legislação - Constituição Federal de 1988">
+        <meta name="author" content="Senado Federal - Atividade Legislativa - Legislação - Constituição Federal de 1988">
+        <title>Senado Federal - Atividade Legislativa - Legislação - Constituição Federal</title>
+        <!-- bootstrap 2.3.2 -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap-responsive.css" rel="stylesheet">
+        <!-- Estilos fornecidos pelo Portal Notícias -->
+        <link href="css/shell.css" rel="stylesheet">
+        <style type="text/css" media="screen"> 
+            @import "/css/default.css";		/***** Apresentação e Layout ***/
+            /* LOCAL */
+        </style>
+            <!--[if IE]>
+        <style type="text/css" media="screen">
+            #menuPortaisTopo ul li {float: left; width: 100%;}
+            div#menuPortaisTopo ul ul,
+            div#menuPortaisTopo ul li:hover ul ul,
+            div#menuPortaisTopo ul ul li:hover ul ul
+            {display:block; visibility:hidden;}
+            div#menuPortaisTopo ul li:hover ul,
+            div#menuPortaisTopo ul ul li:hover ul,
+            div#menuPortaisTopo ul ul ul li:hover ul
+            { visibility:visible;}    
+        </style>
+    <![endif]-->
+    <!--[if lt IE 7]>
+        <style type="text/css" media="screen">
+            body {
+            behavior: url(css/csshover.htc);
+            font-size: 100%;
+            }
+             
+            #menuPortaisTopo ul li a {height: 1%;} 
+             
+            #menuPortaisTopo a, #menuPortaisTopo h2 {
+            font: bold 0.7em/1.4em arial, helvetica, sans-serif;
+            }
+        </style>
+    <![endif]-->
+
+        <!--
+            Estilos especificos para os componentes do layout da linha do tempo
+            -->
+        <link rel="stylesheet" href="css/style.css" media="screen" />
+        <style>
+            .texto {
+            margin-left: 25px;
+            margin-right: 25px;
+            }
+
+            .setaAbaixo {
+            width: 800px;
+            height: 14px;
+            overflow: hidden;
+            position: relative;
+            margin-left: 500px;
+            }
+
+			.divisor-horizontal-5px {
+			margin-bottom: 20px;
+			border-bottom: 5px solid #3E6892;
+			clear: both;
+			}
+			
+			.divisor-horizontal-2px {
+			margin-bottom: 2px;
+			border-bottom: 2px solid #3E6892;
+			clear: both;
+			}
+			
+			.divisor-horizontal-1px {
+			margin-bottom: 2px;
+			border-bottom: 1px solid #3E6892;
+			clear: both;
+			}
+        </style>
+        <style>
+            #scroller {
+            list-style: none;
+            padding: 0;
+            margin: 0px 0px 0px 150px;
+            height: 120px;
+            width: 760px;
+            background-color: #daecf8;
+            color: #000;
+            }
+            #scroller li {
+            border: 1px solid #ddd;
+            margin: 0;
+            padding: 0;
+            height: 38px;
+            }
+            #scroller li.selected {
+            background-color: #FFF;
+            }
+            .no_margin{
+            margin:0px !important;
+            }
+            #dia {
+            float: left;
+            margin-right: 10px;
+            margin-left: 0px;
+            vertical-align: top;
+            }
+            #link {
+            float: left;
+            margin-right:10px;
+            margin-left:10px;
+            }
+            #link a {
+            color: #044565;
+            text-decoration: underline;
+            }
+            #texto {
+            overflow: hidden; 
+            height: 38px; 
+            margin-right:10px;
+            margin-left:10px;
+            }
+            #barra {
+            float: left;
+            width: 50px;
+            margin-left: 20px;
+            margin-right: 10px;
+            height: 120px;
+            }
+            #item {
+            height: 38px;
+            }
+            .boxPeqConst {
+            color: #0b6b9d; 
+            border: 1px solid #CCC; 
+            font-family: Arial, Helvetica, sans-serif; 
+            font-size: 12px; 
+            text-align: center;
+            float: left;
+            width: 180px;
+            margin-top: 5px;
+			padding-top: 2px;
+			padding-bottom: 1px;
+            }
+            .boxPesquisa {
+            color: #0b6b9d; 
+            //border: 1px solid #CCC; 
+            font-family: Arial, Helvetica, sans-serif; 
+            font-size: 12px; 
+            text-align: center;
+            float: left;
+            width: 250px;
+            margin-top: 5px;
+            }
+            .boxConst {
+            color: #0b6b9d; 
+            font-family: 'Lucida Sans Unicode'; 
+            font-size: 20px;
+            float: left;
+            width: 480px;
+            }
+            .boxConst2 {
+	            color: #0b6b9d; 
+	            font-family: 'Lucida Sans Unicode'; 
+	            font-size: 12px;
+			/*	font-weight: bold;*/
+			    height:30px;
+				line-height: 30px;
+            }
+			.boxConstGrande {
+				//border: 1px solid #CCC; 
+				width: 1170px; 
+				height: 67px;
+				color: #044565;
+			}
+			.textoAzul {
+	            color: #0b6b9d; 
+				font-family:'Lucida Sans Unicode';
+				font-size: 18px;
+				margin-bottom: 20px;
+				margin-left: 200px;
+			}
+        </style>
+    <!-- Estilos para os novos cabecalho e rodape -->
+    <style type="text/css" media="screen"> 
+		@import "/inc/essencial/fat.css";
+    </style>
+    </head>
+    <body>
+	<!-- Novo cabeçalho padrão --> 
+	
+<div class="sf-component">
+  <div class="NavGlobal navbar navbar-static-top">
+    <div class="NavGlobal-container">
+      <div class="pull-right dropdown" role="navigation"><a class="NavGlobal-toggle dropdown-toggle" data-toggle="dropdown">
+          <div class="Icon Icon--menu Icon--md"></div><span class="u-alignMiddle"> Portais</span></a>
+        <ul class="NavGlobal-dropdownMenu dropdown-menu">
+          <li><a href="http://www12.senado.leg.br/institucional/">Institucional</a></li>
+          <li><a href="http://www25.senado.leg.br/web/senadores/">Senadores</a></li>
+          <li><a href="http://www25.senado.leg.br/web/atividade/">Atividade Legislativa</a></li>
+          <li><a href="http://www12.senado.leg.br/noticias/">Not&iacute;cias</a></li>
+          <li><a href="http://www12.senado.leg.br/publicacoes/">Publica&ccedil;&atilde;o e Documenta&ccedil;&atilde;o</a></li>
+          <li><a href="http://www12.senado.leg.br/orcamento/">Or&ccedil;amento</a></li>
+          <li><a href="http://www12.senado.leg.br/transparencia/">Transpar&ecirc;ncia</a></li>
+          <li><a href="http://www12.senado.leg.br/ecidadania/">e-Cidadania</a></li>
+        </ul>
+      </div>
+      <div class="NavGlobal-logo pull-left"><a href="http://www.senado.gov.br/"><img src="http://www.senado.gov.br/inc/essencial/img/senado.svg" alt="Senado Federal" height="23" width="170"/></a></div>
+      <div class="NavGlobal-middle"><a href="http://www12.senado.gov.br/institucional/falecomosenado">Fale com o Senado</a><span class="Box Box--x js-vlibras" role="button"><img src="http://www.senado.gov.br/inc/essencial/img/vlibras.png" alt="VLibras" height="32" width="31"/></span></div>
+    </div>
+  </div>
+</div>
+
+	<!-- Cabeçalho específico de Atividade -->
+	<div class="sf-component">
+  <div class="sf-container">
+    <div class="PortalTopo">
+		<div class="PortalTopo-id PortalTopo-id--wide">
+			<div class="PortalTopo-title"><a href="http://www25.senado.leg.br/web/atividade">Atividade Legislativa</a></div>
+		</div>
+		<div class="PortalTopo-togglers visible-xs">
+			<button class="PortalTopo-toggler--search" data-toggle="collapse"
+				data-target=".PortalTopo-busca">
+				<div class="glyphicon glyphicon-search"></div>
+			</button>
+			<button class="PortalTopo-toggler--menu" data-toggle="collapse"
+				data-target=".Nav--principal">
+				<div class="Icon Icon--menu Icon--md"></div>
+			</button>
+		</div>
+		<div class="PortalTopo-busca collapse">
+			<form class="Az" role="search" method="get"
+				action="http://www6g.senado.gov.br/busca/"
+				data-colecao="Transparência">
+				<input type="hidden" name="portal" value="Transparência" />
+				<div class="input-group" data-toggle="_dropdown">
+					<input class="Az-input form-control" type="text"
+						placeholder="Busca" autocomplete="off" name="q" />
+					<span class="input-group-btn">
+						<button class="btn btn-default" type="submit"
+							aria-label="Buscar">
+							<div class="glyphicon glyphicon-search text-muted"></div>
+						</button>
+					</span>
+				</div>
+<!--				
+				<div class="u-posRelative">
+					<div class="Az-place Az-place--float Az-place--wide">
+						<div class="Box Box--lg">
+							<div class="List Box">
+								<div class="eta text-muted">O quê você procura?</div>
+							</div>
+						</div>
+					</div>
+				</div>
+-->				
+			</form>
+		</div>
+
+    </div>
+    <div class="sf-row">
+      <nav role="navigation" class="Nav--principal navbar navbar-default navbar-collapse collapse">  
+        <ul class="nav navbar-nav">          
+          <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Plen&aacute;rio <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://www25.senado.leg.br/web/atividade/sessao-plenaria">Sess&atilde;o Plen&aacute;ria</a></li>
+              <li><a href="http://www25.senado.leg.br/web/atividade/pronunciamentos">Pronunciamentos</a></li>
+              <li><a href="http://www25.senado.leg.br/web/atividade/questoes-de-ordem">Quest&otilde;es de Ordem</a></li>
+              <li><a href="http://www25.senado.leg.br/web/atividade/votacoes-nominais">Vota&ccedil;&otilde;es Nominais</a></li>                                     
+            </ul>
+          </li>                              
+          <li><a href="http://www25.senado.leg.br/web/atividade/materias">Projetos e Mat&eacute;rias</a></li>
+          <li><a href="http://legis.senado.leg.br/comissoes">Comiss&otilde;es</a></li>
+          <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Consolida&ccedil;&otilde;es e Estat&iacute;sticas <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="http://www25.senado.leg.br/web/atividade/relatorio-anual-da-presidencia">Relat&oacute;rio Anual da Presid&ecirc;ncia</a></li>
+              <li><a href="http://www25.senado.leg.br/web/atividade/consolidacoes-tematicas">Consolida&ccedil;&otilde;es Tem&aacute;ticas</a></li>                                       
+              <li><a href="http://www25.senado.leg.br/web/atividade/resenhas-mensais">Resenhas Mensais</a></li>
+              <li><a href="http://www25.senado.leg.br/web/atividade/estatisticas">Estat&iacute;sticas</a></li>                                      
+            </ul>
+          </li>                                
+          <li><a href="http://www25.senado.leg.br/web/atividade/legislacao">Legisla&ccedil;&atilde;o</a></li>
+          <li><a href="https://www25.senado.leg.br/web/atividade/conselhos">Conselhos e &Oacute;rg&atilde;os</a></li>          
+         </ul>
+      </nav>
+	  <nav class="Nav--secundaria hidden-xs"> 
+		<ul class="nav navbar-nav pull-right"> 
+			<li><a href="http://legis.senado.leg.br/diarios/Diario">Di&aacute;rios e Anais</a></li> 
+			<li><a href="http://www12.senado.leg.br/multimidia">Portal Multim&iacute;dia</a></li> 
+			<li><a href="http://www25.senado.leg.br/web/atividade/rss">RSS</a></li> 
+			<li><a href="http://dadosabertos.senado.leg.br/">Dados Abertos</a></li> 
+		</ul> 
+	  </nav>
+
+<!--
+      <nav class="Nav--secundaria hidden-xs">
+        <ul class="nav navbar-nav pull-right">
+          <li><a href="http://www12.senado.leg.br/jornal">Jornal do Senado</a></li>
+          <li><a href="http://www12.senado.gov.br/noticias">Senado Notícias</a></li>
+          <li><a href="http://www.senado.leg.br/noticias/tv">TV Senado</a></li>
+        </ul>
+      </nav>
+-->
+    </div>
+  </div>
+</div>
+<!--
+<div class="sf-component">
+  <div class="container-miolo">
+    <ol class="Breadcrumbs">
+      <li><a>Home</a></li>
+      <li><a>Constituição Federal</a></li>
+      <li><a>Emendas Constituicionais</a></li>
+      <li class="active">EC nº 35</li>
+    </ol>
+    <div class="sf-H1 titulo-principal">Ementa Constitucional nº 35</div>
+  </div>
+</div>
+-->
+	
+	 <div class="sf-component">
+    <div class="sf-container">
+      <div class="container-miolo">
+        <ol class="Breadcrumbs">
+          <li><a href="http://www25.senado.leg.br/atividade">Atividade Legislativa</a></li>
+          <li><a href="http://www25.senado.leg.br/atividade/legislacao">Legislação</a></li>
+          <li class="active">Constitui&ccedil;&atilde;o Federal</li>          
+        </ol>
+      </div>
+    </div>    
+  </div>
+	
+        <!-- CONTEÚDO -->
+        <section id="conteudoPrincipal" class="sf-container" role="main">
+            <!-- Aqui vai o conteúdo principal -->
+				<h1 class="titulo-pagina"> Constituição da República Federativa do Brasil </h1>
+            <div style="color: #000;" class="container" >
+               <!-- <div style="height: 20px;"></div>-->
+			    <!-- Alteração Tíquete #89667 - Anderson de Oliveira Andrade - 21/03/2018 -->
+					<!--div class="boxConst2" style="background-color: #f7f7f7;">
+						<div class="" style="margin-left: 10px; float: left;">&nbsp;
+							<a href="con1988/CON1988_05.10.1988/ind.asp">
+							Texto Promulgado</a> |</div>
+						<div class="" style="float: left;">&nbsp;
+							<a href="con1988/con1988_atual/ind.asp">
+							Texto Atualizado</a> |</div>
+						<div class="" style="">&nbsp;
+							<a href="http://livraria.senado.gov.br/ebook.constituicao">Formato ePUB</a></div>
+					</div-->
+				<!--    -->
+                <!--<div style="height: 10px;"></div>-->
+				<!-- alteração #97965 - retirada de link da constituição em PDF - troca de layout ->
+				<div class="row-fluid">
+					<div class="span4">
+						<a href="http://www.senado.leg.br/atividade/const/con1988/CON1988_05.10.1988/ind.asp" target="_blank"><img src="images/banner_TEXTO_promulgado.png" style="margin-bottom:10px;" /></a>
+						<a href="http://www2.senado.leg.br/bdsf/item/id/243334" target="_blank"><img src="images/banner_INGLES.png" style="margin-bottom:10px;" /></a>						
+					</div>
+					<div class="span4">
+						<a href="http://legis.senado.leg.br/legislacao/ListaTextoSigen.action?norma=579494&id=16434803&idBinario=16434817" target="_blank"><img src="images/banner_TEXTO.png" style="margin-bottom:10px;" /></a>					
+						<a href="http://bd.camara.gov.br/bd/handle/bdcamara/1708" target="_blank"><img src="images/banner_AUDIO.png" style="margin-bottom:10px;" /></a>
+
+					</div>
+					<div class="span4">
+						<a href="https://legis.senado.leg.br/legislacao/ListaTextoSigen.action?norma=604119&id=16434804&idBinario=16434816&mime=application/rtf" target="_blank"><img src="images/banner_DISPOSICOES.png" style="margin-bottom:10px;" /></a>
+						<a href="http://livraria.senado.leg.br/ebook.constituicao" target="_blank"><img src="images/banner_PDF.png" style="margin-bottom:10px;" /></a>
+					</div>
+					
+				</div>
+				<!-- alteração #97965 - retirada de link da constituição em PDF - troca de layout pelo  -->
+				<div class="row-fluid">
+						<a href="http://www.senado.leg.br/atividade/const/con1988/CON1988_05.10.1988/ind.asp" target="_blank"><img src="images/banner_TEXTO_promulgado.png" style="margin-bottom:10px; margin-right:10px;" /></a>
+						<a href="http://legis.senado.leg.br/norma/579494/publicacao/16434817" target="_blank"><img src="images/banner_TEXTO.png" style="margin-bottom:10px; margin-right:10px;" /></a>
+						<a href="http://legis.senado.leg.br/norma/604119/publicacao/16434816" target="_blank"><img src="images/banner_DISPOSICOES.png" style="margin-bottom:10px; " /></a>
+					
+				</div>
+				<div class="row-fluid" align="center">
+						<a href="http://www2.senado.leg.br/bdsf/item/id/243334" target="_blank"><img src="images/banner_INGLES.png" style="margin-bottom:10px; margin-right:10px;" /></a>		
+						<a href="http://bd.camara.gov.br/bd/handle/bdcamara/1708" target="_blank"><img src="images/banner_AUDIO.png" style="margin-bottom:10px; margin-right:10px;" /></a>
+						<!--a href="http://livraria.senado.leg.br/ebook.constituicao" target="_blank"><img src="images/banner_PDF.png" style="margin-bottom:10px;" /></a-->					
+				</div>
+				<!-- alteração #97965 - retirada de link da constituição em PDF - troca de layout pelo  -->
+				<h3>Linha do Tempo</h3>
+            </div>
+            <div style="color: #000; height: 10px;" class="container" >
+            </div>
+            <div style="background-color:#044565;" class="container">
+                <div id="timeline">
+                    <img src="images/setaAbaixo.gif" style="margin-left: 389px; margin-top: -15px;" />
+                    <br /><br />
+                    <ul id="dates">
+                        <li><a href="#1992">1992</a></li>
+                    </ul>
+                    <br />
+                    <div id="grad_left"></div>
+                    <div id="grad_right"></div>
+                    <a href="#" id="next">+</a>
+                    <a href="#" id="prev">-</a>
+                </div>
+            </div>
+            <div style="background-color:#deeaf5; height: 250px;" class="container">
+                <div id="timeline2">
+                    <img src="images/setaAbaixo2.png" style="margin-left: 389px; margin-top: -15px;" />
+                    <ul id="issues" style="background-color: #daecf8;">
+                    </ul>
+                </div>
+                <div class="offset1 textoAzul" >
+                	<span>Selecione abaixo a emenda para acessar o respectivo texto compilado da Constituição:</span>
+                </div>
+                <div class="" style="float: left; width: 35px;">&nbsp;	
+                </div>
+                <div class="" style="float: left;">
+                    <ul id="scroller" class="">
+                        <li>
+                            <div id="item" class="" style="" onClick="mudaBarra(this);">
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div id="barra" style="">
+                    <div id="topoBarraRolagem" onClick="rolarAcima();"><img src="images/up-azul.png" /></div>
+                    <div id="linhaBarraRolagem"><img src="images/barra-azul.png" /></div>
+                    <div id="baseBarraRolagem" onClick="rolarAbaixo();"><img src="images/down-azul.png" /></div>
+                </div>
+            </div>
+            <div style="height: 1px;">&nbsp;
+            </div>
+            <div style="background-color:#deeaf5; height: 50px;" class="container">
+            	<div style="float: left; margin-right: 10px;">
+                	<div style="height: 10px">&nbsp;</div>
+                	<span class="textoAzul" style="font-size: 12px; font-weight: bold;">Emenda Constitucional: </span>
+                </div>
+            	<div style="float: left;">
+                    <select id="listaEMC" class="" onchange="mostrarEMC($(this).val());" >
+                    </select>
+                </div>
+            	<div style="float: left; margin-right: 10px;">
+                	<div style="height: 10px">&nbsp;</div>
+                	<span class="textoAzul" style="font-size: 12px; font-weight: bold; margin-left: 10px;">Emenda de Revisão: </span>
+                </div>
+            	<div style="float: left;">
+                    <select id="listaEMR" class="" onchange="mostrarEMC($(this).val());" >
+                    </select>
+                </div>
+            </div>
+            <!--
+            <div style="background-color:#daecf8; color: #000;" class="container">
+                <br />
+                <br />
+                <div class="boxPesquisa offset8">
+                    <form class="form-inline">
+                        <input id="anoEMC1" class="input-medium" type="text" placeholder="Pesquisar EMC">
+                        <button class="btn-medium" type="button" onclick="mostrarEMC($('#anoEMC1').val());">Pesquisar</button>
+                    </form>
+                </div>
+            </div>
+            -->
+            <div style="color: #000; height: 40px;" class="container" >
+            </div>
+            <div style="color: #000; height: 268px;" class="container" >
+            	<div style="float: left; width: 368px; border: 1px solid #CCC;">
+                	<a href="http://www.senado.leg.br/publicacoes/anais/asp/CT_Abertura.asp"><img src="images/anais.png" ></a>
+                </div>
+            	<div style="float: left; width: 368px; border: 1px solid #CCC; margin-left: 30px; margin-right: 30px;">
+                	<a href="http://www6g.senado.gov.br/apem/search"><img src="images/bases.png" ></a>
+                </div>
+            	<div style="float: left; width: 368px; border: 1px solid #CCC;">
+                	<a href="http://www.senado.leg.br/publicacoes/GeneseConstituicao/"><img src="images/genese.png" ></a>
+                </div>
+            </div>
+            <div style="color: #000; height: 63px;" class="container" >
+            </div>
+        </section>
+        <!-- /CONTEÚDO -->
+
+	<!-- Novo rodapé padrãp SF -->
+	
+<div class="sf-component">
+  <div class="clearfix"></div>
+  <div class="FooterMain">
+    <div class="sf-container">
+      <div class="FooterMain-row">
+        <div class="FooterMain-section">
+          <dl class="FooterMain-list">
+            <dt>Portais</dt>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/institucional/">Institucional</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www25.senado.leg.br/web/senadores/">Senadores</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www25.senado.leg.br/web/atividade/">Atividade Legislativa</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/noticias">Not&iacute;cias</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/publicacoes">Publica&ccedil;&atilde;o e Documenta&ccedil;&atilde;o</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/orcamento">Or&ccedil;amento</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/transparencia/">Transpar&ecirc;ncia</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/ecidadania/">e-Cidadania</a></dd>
+          </dl>
+        </div>
+        <div class="FooterMain-section">
+          <dl class="FooterMain-list">
+            <dt>Acesso R&aacute;pido</dt>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/blog">Blog</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/blog/credenciamento-de-jornalistas">Credenciamento de Jornalistas</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/senado/ilb/ead/abrangencia">Educa&ccedil;&atilde;o a dist&acirc;ncia</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.leg.br/jovemsenador">Jovem Senador</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.gov.br/institucional/procuradoria">Procuradoria da Mulher</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www12.senado.gov.br/institucional/estagio">Programa de Est&aacute;gio</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www.interlegis.leg.br/">Programa Interlegis</a></dd>
+            <dd><a class="FooterMain-link u-linkClean" href="http://www.senado.leg.br/senado/visite/">Visite o Senado</a></dd>
+          </dl>
+        </div>
+        <div class="FooterMain-section milli">
+          <dl class="FooterMain-list CutHere CutHere--white CutHere--xl">
+            <dt><a class="FooterMain-hlink u-linkClean" target="_blank" href="http://www.senado.leg.br/transparencia/LAI/secrh/parla_inter.pdf"><strong>Fale com os Senadores</strong></a></dt>
+            <dd><a class="FooterMain-hlink u-linkClean u-linkBlock" href="http://www12.senado.leg.br/institucional/falecomosenado"><strong>Fale com o Senado</strong></a></dd>
+            <dd><a class="FooterMain-hlink u-linkClean u-linkBlock" target="_blank" href="http://www.congressonacional.leg.br/"><strong>Congresso Nacional</strong></a><a class="FooterMain-hlink u-linkClean u-linkBlock" target="_blank" href="http://www.camara.leg.br/"><strong>C&acirc;mara dos Deputados</strong></a><a class="FooterMain-hlink u-linkClean u-linkBlock" target="_blank" href="http://www.tcu.gov.br/"><strong>Tribunal de Contas da Uni&atilde;o</strong></a></dd>
+          </dl>
+        </div>
+        <div class="FooterMain-section">
+          <dl class="FooterMain-list">
+            <dt>Redes Sociais</dt>
+            <dd><a class="ShareIcon ShareIcon--dark ShareIcon--circle ShareIcon--facebook" href="http://www.facebook.com/senadofederal" target="_blank" title="Facebook" alt="Facebook"></a> <a class="ShareIcon ShareIcon--dark ShareIcon--circle ShareIcon--twitter" href="http://twitter.com/senadofederal" target="_blank" title="Twitter" alt="Twitter"></a> <a class="ShareIcon ShareIcon--dark ShareIcon--circle ShareIcon--youtube" href="http://www.youtube.com/agenciasenadoBR" target="_blank" title="YouTube" alt="YouTube"></a> <a class="ShareIcon ShareIcon--dark ShareIcon--circle ShareIcon--flickr" href="http://www.flickr.com/agenciasenado" target="_blank" title="Flickr" alt="Flickr"></a>
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <div class="FooterMain-stand Arrange Arrange--middle milli">
+        <div class="Arrange-sizeFit u-textNoWrap"><span class="glyphicon glyphicon-lock u-alignBaseline"></span> <a href="https://intranet.senado.gov.br/" target="_blank">Intranet</a>
+        </div>
+        <div class="Arrange-sizeFill">
+          <ul class="Box Fence Fence--lg hidden-xs">
+            <li><a href="http://www12.senado.leg.br/institucional/pessoas/pessoas">Servidor efetivo</a></li>
+            <li><a href="http://www12.senado.leg.br/institucional/pessoas/pessoas">Servidor comissionado</a></li>
+            <li><a href="http://www12.senado.leg.br/institucional/pessoas/pessoas">Servidor aposentado</a></li>
+            <li><a href="http://www12.senado.leg.br/institucional/pessoas/pessoas">Pensionista</a></li>
+          </ul>
+        </div>
+        <div class="Arrange-sizeFit u-textNoWrap"><span class="glyphicon glyphicon-chevron-up u-alignBaseline"></span> <a href="#">Voltar ao topo</a>
+        </div>
+      </div>
+    </div>
+    <div class="FooterMain-endereco">
+      Senado Federal -
+      Pra&ccedil;a dos Tr&ecirc;s Poderes - Bras&iacute;lia DF - CEP 70165-900
+      | Telefone: 0800 61 22 11
+    </div>
+  </div>
+</div>
+<script src="/inc/essencial/analytics.js"></script>
+<script async="async" src="https://www.google-analytics.com/analytics.js"></script>
+<script src="//code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="//www.senado.leg.br/inc/essencial/essencial.js"></script>
+        <script src="js/jquery-1.10.2.min.js"></script> 
+        <script src="js/bootstrap.min.js"></script> 
+        <script src="js/hover-dropdown.min.js"></script> 
+        <script>
+            $(function() { 
+            	// Exibe listas do rodapé apenas em displays maiores
+            	if ($(window).width() > 768) {
+            		$("#navbarRodape .collapse").collapse('show');   
+            	}
+            });
+        </script>
+        <script src="js/jquery.timelinr-0.9.54.js"></script>
+        <script>
+            var anoSelecionado = 0;
+            var iTopo;
+            var iUltimo;
+            var maxItem = 3;
+			var jsonAux;
+			var json;
+			var selecionar = "";
+            botoesBarra();
+            $('#scroller').css('height',$('#scroller').height());
+            $('#scroller').css('overflow','hidden');
+            
+            carregarAnos();
+			/*	**********
+				Chamado quando o usuário pesquisa uma EMC pelo número.
+				********** */
+            function mostrarEMC(numero) {
+				if(numero=='vazio') {
+					return;
+				}
+				var ano;
+//				numero = 'EMC ' + numero;
+				numero = numero.replace('-',' ');
+				//	Guarda o numero da EMC selecionada para ser usado pela funcao carregarJSON
+				selecionar = numero;
+				//	Descobre em qual ano está 
+				for(var i=0; i<jsonAux.normas.length; i++) {
+					if(numero==jsonAux.normas[i].norma) {
+						ano = jsonAux.normas[i].data;
+						ano = ano.substr(0,4);
+						//	Simula clique no ano que contem a EMC buscada
+						$('#dates li a[href$="#'+ano+'"]').trigger('click');
+						break;
+					}
+				}
+			}
+			/*	**********
+				Carrega a barra de anos, começando em 1992 até o ano corrente.
+				********** */
+            function carregarAnos() {
+				//	Pega o ano corrente
+            	var dataAtual = new Date();
+            	var anoAtual = dataAtual.getFullYear();
+				//	Limpa as listas
+            	$('#dates').empty();
+            	$('#issues').empty();
+				//	Carrega a barra de anos.
+            	for(var i = 1992; i<=anoAtual; i++) {
+            		$('#dates').append('<li><a href="#' + i + 
+										'" onclick="carregarJSON($(this).text());" style="text-decoration: none;">'+i+'</a></li>');
+            		$('#issues').append('<li id="'+i+'"></li>');
+					
+            
+            	}
+				//	Guarda o ano atual como selecionado
+            	anoSelecionado = anoAtual;
+            }
+			/*	**********
+				Chamda quando um item da lista de emendas é clicado.
+				********** */
+            function mudaBarra(x) {
+				//	Muda a cor de fundo de todos os itens para o default,
+            	$('li #item').css('background-color','#DAECF8');
+				//	limpa as barras azuis de todos os itens,
+            	$('#dia > img').attr('src','images/barraBranca.png');
+				//	mostra a barra azul para o item selecionado,
+            	$(x).find('img').attr('src','images/barraAzul.png');
+				//	muda a cor de fundo
+            	$(x).css('background-color','#F9F9F9');
+				//	carrega a EMC
+				$('#emc').attr('src',$(x).find('a').attr('href'));
+            }
+			/*	**********
+				Move os itens da lista de emendas para cima.
+				********** */
+            function rolarAbaixo() {
+            	if(iTopo > (iUltimo - maxItem)) {
+            		//desabilita botao rolarAbaixo
+            	} else {
+            		$('#scroller li:nth-child('+iTopo+')').slideUp();
+            		iTopo += 1;
+            	}
+            	botoesBarra();
+            }
+			/*	**********
+				Move os itens da lista de emendas para baixo.
+				********** */
+            function rolarAcima() {
+            	if(iTopo == 1) {
+            	} else {
+            		$('#scroller li:nth-child('+(iTopo-1)+')').slideDown();
+            		iTopo -= 1;
+            	}
+            	botoesBarra();
+            }
+			/**********
+				Ajusta os botões da barra da lista de emendas.
+				Chamada toda vez que o usuário clicar algum dos links de rolagem.
+			 ********** */
+            function botoesBarra() {
+            	if(iUltimo <= maxItem ) {
+            		$('#baseBarraRolagem img').attr('src','images/down-cinza.png');
+            		$('#topoBarraRolagem img').attr('src','images/up-azul.png');
+            	} else {
+            		if(iTopo > (iUltimo - maxItem)) {
+            			$('#baseBarraRolagem img').attr('src','images/down-cinza.png');
+            		} else {
+            			$('#baseBarraRolagem img').attr('src','images/down-azul.png');
+            		}
+            		if( iTopo == 1 ) {
+            			$('#topoBarraRolagem img').attr('src','images/up-cinza.png');
+            		} else {
+            			$('#topoBarraRolagem img').attr('src','images/up-azul.png');
+            		}
+            	}
+            }
+			/*	==========
+				Carrega os dados do arquivo emendas_a.txt
+				Usei a extensão .txt por que a extensão .json faz com que o IIS tente ler o arquivo com um 
+				handler de arquivos .json.
+				========== */
+            function carregarJSON(ano) {
+            	$.ajax({
+            		url: "emendas_a.txt",
+            		dataType: "text",
+            		success: function(data) {
+            			try {
+            				json = $.parseJSON(data);
+							//	Copia para uma variável global.
+							jsonAux = json;
+							//	Esta é a estrutura que será montada com os dados de emendas_a.txt
+            				var modelo = '' + 
+            					'<li>' +
+            						'<div id="item" class="row-fluid" onclick="mudaBarra(this);" norma="#num#">' +
+            							'<div id="dia" class="">' +
+            								'<img src="images/barraAzul.png" />' + 
+            								'<span style="margin-left: 5px;">#data#</span>' +
+            							'</div>' +
+            							'<div id="link" class=""><a href="#pagina#" target="_blank">#link#</a></div>' +
+            							'<div id="texto" class="">#texto#</div>' +
+            						'</div>' +
+            					'</li>';
+							//	Para colocar os itens em ordem decrescente, tive que criar um array e usar
+							//	os comandos pop e push para inserir e retirar elementos.
+							//	A concatenação sempre falhava, colocando os itens na mesma ordem em que estavam
+							//	originalmente no arquivo.
+							
+							//	Esta é a estrutura para montar o select de Emendas
+							strEm = "<option value='#numEMC#'>#numEMC# #optionEmenda#</option>";
+							
+							
+							var strItens = [];
+							var strEMC = [];
+							var strEMR = [];
+            				iUltimo = json.normas.length;
+							//	Esvazia a lista de emendas
+            				$('#scroller').empty();
+							//	Preeenche apenas com o ano selecionado
+            				for(var i=0; i<iUltimo; i++) {
+								//	Isola a data em uma variável para tratá-la como string
+            					var temp = json.normas[i].data;
+							
+								//	Monta a lista de Emendas
+								var txtValueEmenda = json.normas[i].norma;
+								var txtOptionEmenda;
+								var txtOption = ""
+								txtValueEmenda = txtValueEmenda.replace(' ','-')
+								txtOptionEmenda = temp.substr(8,2) + '.' + temp.substr(5,2) + '.' + temp.substr(0,4);
+								txtOption = strEm.replace(/#numEMC#/g,txtValueEmenda);
+								txtOption = txtOption.replace('#optionEmenda#',txtOptionEmenda);
+								if( txtOption.indexOf("EMC-") > -1 ) {
+									strEMC.push(txtOption);
+								} else {
+									strEMR.push(txtOption);
+								}
+
+								//	Verifica se o ano é o selecionado
+            					if(temp.substr(0,4) == ano) {
+									//	Monta os dados que serão usados na estrutural li
+									//	O nome da norma tem um espaço antes do número
+	            					var pagina = json.normas[i].norma;
+	            					var pasta = pagina.replace(' ','');
+									//	Retirado o espaço, monta-se aqui o endereço da página que contém a Emenda
+	            					pagina = "con1988/con1988_" +
+	            							temp.substr(8,2) + '.' + temp.substr(5,2) + '.' + temp.substr(0,4) + '/' +
+	            							'ind.asp';
+									//	Tranforma a data de AAAA-MM-DD em DD-MM-AAAA
+            						temp = temp.substr(8,2) + '-' + temp.substr(5,2) + '-' + temp.substr(0,4);
+            						
+									//	Aqui é montado a estrutura li.
+            						var novoLI = modelo.replace('#data#',temp);
+            						novoLI = novoLI.replace('#pagina#',pagina);
+            						novoLI = novoLI.replace('#link#',json.normas[i].norma);
+            						novoLI = novoLI.replace('#texto#',json.normas[i].ementa);
+									//	O numero da norma é colocado em um atributo especial
+									//	para facilitar a pesquisa de norma pelo número.
+									novoLI = novoLI.replace('#num#',json.normas[i].norma);
+									//	Guarda em uma estrutura de pilha
+									strItens.push(novoLI);
+            					}
+            				}
+							//	Coloca os li's em ordem decrescente de data dentro da ul
+							for(var i=strItens.length - 1; i>=0; i--) {
+           						$('#scroller').append(strItens.pop());
+							}
+							//	Preenche a lista de Emendas Constitucionais
+							$('#listaEMC').empty();
+       						$('#listaEMC').append("<option value='vazio'>Selecione a emenda</option>");
+							for(var i=strEMC.length - 1; i>=0; i--) {
+           						$('#listaEMC').append(strEMC.pop());
+							}
+							//	Preenche a lista de Emendas de Revisao
+							$('#listaEMR').empty();
+       						$('#listaEMR').append("<option value='vazio'>Selecione a emenda</option>");
+							for(var i=strEMR.length - 1; i>=0; i--) {
+           						$('#listaEMR').append(strEMR.pop());
+							}
+							//console.log($('#listaEmendas').position());
+							//	Seleciona a EMC mais recente
+							$('#scroller li:nth-child(1) #item').trigger('click');
+							//	Se chegou aqui através da pesquisa de EMC por número,
+							//	seleciona a EMC correspondente.
+							if(selecionar != "") {
+								var x = $('div[norma="'+selecionar+'"]');
+								$('div[norma="'+selecionar+'"]').trigger('click');
+								//	Se a li não estiver visível, 
+								//	rola a lista até que apareça
+								if( $("#scroller li").index($(x).parent() ) > 2 ) {
+									var linhas = $("#scroller li").index($(x).parent()) - 2;
+									while( linhas > 0 ) {
+										rolarAbaixo();
+										linhas--;
+									}
+								}
+								selecionar = "";
+							}
+            				iTopo = 1;
+            				iUltimo = $('#scroller li').length;
+            				botoesBarra();
+            			} catch(err) {
+            				alert(err);
+            			}
+            		},
+            		error: function (jqXHR, textStatus, errorThrown) {
+                    	alert (textStatus);
+            			alert(errorThrown);
+              			}
+            	});
+            }
+            
+            $(function(){
+            	$().timelinr({
+            		arrowKeys: 'true',
+            		startAt: $('#dates li').length,
+            	})
+            });
+			
+			function autoResize(id){
+				/*
+				http://stackoverflow.com/questions/819416/adjust-width-height-of-iframe-to-fit-with-content-in-it
+				*/
+			    var newheight;
+			    var newwidth;
+
+			    if(document.getElementById){
+        			newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
+        			newwidth=document.getElementById(id).contentWindow.document .body.scrollWidth;
+				}
+
+				document.getElementById(id).height= (newheight) + "px";
+				document.getElementById(id).width= (newwidth) + "px";
+			}
+		</script>
+    </body>
+</html>
